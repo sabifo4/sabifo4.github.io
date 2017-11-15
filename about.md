@@ -8,7 +8,7 @@ Hi all!
 
 I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at dos Reis Lab research group at Queen Mary University of London.
 
->![](/assets/figs/sandra.png)
+>![](/assets/figs/sac.png)
 
 Even though now I cannot imagine a day working without my laptop, my path into academia 
 started at the wet lab!
@@ -53,5 +53,5 @@ If I am not working, you can always find me
 climbing the walls of the Mile End climbing wall, 
 where I spend most of my spare time!
 
-![](/assets/figs/me.png){:height="20%" width="20%"}
+![](/assets/figs/mecw.png){:height="20%" width="20%"}
 
