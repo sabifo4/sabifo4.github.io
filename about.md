@@ -36,22 +36,3 @@ study species divergences through time.
 
 (1) [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)
 Konstantinos A, __Álvarez-Carretero S__, dos Reis M and Yang Z. (2017) Systematic Biology.
-
-# __Contact__ 
-
-You can reach me at:
-
-[s.alvarez-carretero@qmul.ac.uk](mailto://s.alvarez-carretero@qmul.ac.uk) 
-
-School of Biological and Chemical Sciences  
-Queen Mary University of London  
-London, E1 4NS
-
- 
-
-If I am not working, you can always find me
-climbing the walls of the Mile End climbing wall, 
-where I spend most of my spare time!
-
-![](/assets/figs/mecw.png){:height="20%" width="20%"}
-

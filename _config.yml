@@ -14,20 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A journey through computational evolutionary biology
+author: Sandra Álvarez-Carretero
 email: s.alvarez-carretero@qmul.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Sandra Álvarez-Carretero, PhD student at Queen Mary University of London ||
-  Evolutionary biology, bayesian statistics, and biopipelines!
-baseurl: "/sabifo4.github.io" # the subpath of your site, e.g. /blog
+description1: PhD student at QMUL
+description2: Evolutionary biology, bayesian statistics, and biopipelines!
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sabifo4
 github_username:  sabifo4
-
+linkedin_username: sandra-álvarez-carretero-a55b32100
 # Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
+
+# Have a better URL path
+permalink: /blog/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +45,6 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Include the following:
+include: ["_includes"]
