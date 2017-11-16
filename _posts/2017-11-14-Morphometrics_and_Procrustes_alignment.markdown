@@ -118,7 +118,7 @@ Normally, the landmarks for all the specimens are collected and saved in a matri
 If the landmarks are 2D points, then every two columns we will have the coordinates for each point. For instance, if we have 10
 landmark points, we will have `2 x 10 = 20` coordinates. Therefore, the first two columns (without taking into account possible extra columns containing information about the specimens) will
 refer to the first landmark, $$L_1=(x_1,y_1)$$, the third and fourth columns to the second landmark, 
-$$L_2=(x_2,y_2)$$, and so on. Every row $$i^{th}$$ in $$\mathrm{M}$$ will then be the vector of the coordinates of all landmarks for specimen $$i$$.
+$$L_2=(x_2,y_2)$$, and so on. Every $$i^{th}$$ row in $$\mathrm{M}$$ will then be the vector of the coordinates of all landmarks for specimen $$i$$.
 
 
 | Specimens 	| L1.x   	| L1.y   	| L2.x   	| L2.y   	|
