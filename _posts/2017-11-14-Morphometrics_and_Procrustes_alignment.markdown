@@ -228,11 +228,9 @@ Now that R knows where your directory is, let's load the data set
 we are going to be working with and save it in the `data.frame` object `df`:
 
 ```R 
-
 #\\ Load data set - 9 species x (3 info columns + 144 coordinates)
 df <- read.table(file=paste(wd,"data/Triturus_and_Calotriton_lmk_reduced.csv", sep=""), 
                  header=T,sep=",", dec=".", stringsAsFactors=F)
-
 ```	 
 
 If you open this file with your favourite text editor (e.g. Notepad++, sublime, atom, ...), 
