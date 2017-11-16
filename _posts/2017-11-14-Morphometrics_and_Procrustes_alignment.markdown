@@ -36,7 +36,7 @@ the molecular tree.
 
 ![](/assets/figs/mol-align.png)
 
-If you want to generate a molecular tree, I would recommend you to use one of these two softwares:
+If you want to generate a molecular tree, two of the most used softwares in evolutionary biology are the following:
 * [RAxML](https://sco.h-its.org/exelixis/web/software/raxml/index.html)
 : This is a command-line tool with multiple options to generate your phylogenetic trees. It has a very [detailed documentation](https://sco.h-its.org/exelixis/resource/download/NewManual.pdf) with various examples for every option and, if you have still any doubt, you might want to visit their [google group](https://groups.google.com/forum/#!forum/raxml) in which your answer might have been previously answered. Otherwise, they will try to help you as soon as possible!
 * [BEAST2](http://www.beast2.org/)
