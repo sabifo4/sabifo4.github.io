@@ -42,7 +42,7 @@ If you want to generate a molecular tree, two of the most used softwares in evol
 * [BEAST2](http://www.beast2.org/)
 : This package contains different programs, although the ones that are of interest to generate a phylogenetic tree are BEAUti2 and BEAST2. The former is a java executable that, through a user-friendly graphical interface, prepares the input file to be used by BEAST2. Once this file in `XML` format is ready, BEAST2 can be used. Note that this tool is an executable file in Windows while it is launched through the terminal in Linux distributions. In order to get familiar with both tools, you can follow the tutorial [Divergence Dating](https://github.com/CompEvol/beast2/blob/master/doc/tutorials/DivergenceDating/DivergenceDatingTutorialv2.2.0.pdf?raw=true) available in their website.
 
-If you want to visualize the tree, you can use either [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) or [Dendroscope]().
+If you want to visualize the tree, you can use either [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) or [Dendroscope](http://dendroscope.org/).
 #### *Morphological data*
 In contrast to molecular data, generating a morphological tree is not as straightforward as generating a molecular tree. 
 First of all, we need to have the same bones for all the species of the phylogeny. In other words, if we had a canine tooth for one 
