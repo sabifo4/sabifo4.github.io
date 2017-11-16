@@ -152,8 +152,7 @@ at each of them:
 
 * The `data` folder contains the data that you are going to analyse: the file 
 *"Triturus_and_Calotriton_lmk_reduced.csv"*. This contains 48 3D landmarks collected from 
-the skulls of 8 *Triturius* specimens and 1 *Calotriton* specimen (see [Adams, D. C., M. L. Collyer, A.
-  Kaliontzopoulou, and E. Sherratt](https://cran.r-project.org/package=geomorph) for more information).
+the skulls of 8 *Triturius* specimens and 1 *Calotriton* specimen (see [Ivanović A, Arntzen JW](https://academic.oup.com/biolinnean/article-lookup/doi/10.1111/bij.12314) for more information).
 * The `PA` folder contains two files, each of them being an example of the 
 results you should get after performing the PA while following this tutorial.
 * The `plots` folder contains three plots, the ones you should get while 
