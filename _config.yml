@@ -29,6 +29,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Have a better URL path
 permalink: /blog/:title
