@@ -1,4 +1,4 @@
-# A journey through computational evolutionary biology
+# Understanding computational evolutionary biology
 
 I am Sandra Álvarez-Carretero, a PhD student at [**dos Reis Lab**](dosreislab.github.io) research group at [Queen Mary University of London](http://www.sbcs.qmul.ac.uk/). 
 
