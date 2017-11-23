@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!--<h1 class="page-heading">Posts</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>-->
+  
+  <!-- Setting latest post on top and then adding a line below -->
+  <div style='overflow:hidden; white-space:nowrap;'>
+    <h1 class="page-heading">Latest posts</h1>
+    <ul class="post-list">
+      {% for post in site.posts limit:2 %}
+        <li>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <a class="page-heading" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div><hr style='display:inline-block; width:100%;' /></div>
+  
+  <!-- Adding lovely Siurana -->
+  <div id="sample_div">
+<<<<<<< HEAD
+    <img src="{{ site.url }}/assets/figs/siurana.jpg" />
+=======
+    <img src="{{ site.baseurl }}/assets/figs/siurana.jpg" />
+>>>>>>> be85e81b7312ee67dee1a23364306e18630429f3
+  </div>
+
+    
+
+</div>
