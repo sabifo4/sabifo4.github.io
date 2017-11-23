@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <!--<h1 class="page-heading">Posts</h1>
   
   {{ content }}
 
@@ -19,8 +19,27 @@ layout: default
         </h2>
       </li>
     {% endfor %}
-  </ul>
+  </ul>-->
+  
+  <!-- Setting latest post on top and then adding a line below -->
+  <div style='overflow:hidden; white-space:nowrap;'>
+    <h1 class="page-heading">Latest posts</h1>
+    <ul class="post-list">
+      {% for post in site.posts limit:2 %}
+        <li>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <a class="page-heading" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div><hr style='display:inline-block; width:100%;' /></div>
+  
+  <!-- Adding lovely Siurana -->
+  <div id="sample_div">
+    <img src="{{ site.url }}//assets/figs/siurana.jpg" />
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    
 
 </div>

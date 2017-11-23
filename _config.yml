@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A journey through computational evolutionary biology
+title: Understanding computational evolutionary biology
 author: Sandra Álvarez-Carretero
 email: s.alvarez-carretero@qmul.ac.uk
 description1: PhD student at QMUL
@@ -48,4 +48,7 @@ exclude:
 #   - vendor/ruby/
 
 # Include the following:
-include: ["_includes"]
+include: 
+  - ["_includes"]
+  - ["_layouts"]
+  
