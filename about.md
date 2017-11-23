@@ -11,12 +11,12 @@ I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at d
 >![](/assets/figs/sac.png)
 
 Even though now I cannot imagine a day working without my laptop, my path into academia 
-started at the wet lab!
+started at the wet lab:
 
 * __BSc in Biochemistry and Molecular Biology ([Universidad Rovira I Virgili](http://www.urv.cat/es/estudios/grados/oferta/graudebioquimica/), Spain)__
 : While I was studying my BSc, I soon realised after taking the bioinformatics course how much 
-I enjoyed telling the computer to do __something__ with my 
-biological data and actually getting __this something__ done 
+I enjoyed telling the computer to do __"something"__ with my 
+biological data and actually getting __"this something"__ done 
 (what I could not always say after my lab practicals...). There I decided I should focus on something 
 that could integrate my two areas of interest: Biology and Informatics.  
 
@@ -28,7 +28,7 @@ where I developed a pipeline to characterise bacterial isolates based on whole-g
 * __PhD student ([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)__
 : Once I finished my MSc, I decided to explore other areas in the computer science such as 
 bayesian statistics and modeling where I could learn more about the maths used in this field. 
-Currently, I am carrying out my PhD at [**dos Reis Lab**](dosreislab.github.io) research group,
+Currently, I am carrying out my PhD at [__dos Reis Lab__](dosreislab.github.io) research group,
 where I am working on the application of Bayesian MCMC statistical methods to 
 study species divergences through time.
 
