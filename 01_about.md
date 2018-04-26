@@ -36,11 +36,62 @@ study species divergences through time.
 
 # __Publications__
 
-* [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253) 
-__Álvarez-Carretero S__ (2016, Dissertation)
+* [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253)  
 
-* [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)
-Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
+   __Álvarez-Carretero S__ (2016, Dissertation)
 
-* [VSpipe, an Integrated Resource for Virtual Screening and Hit Selection: Applications to Protein Tyrosine Phospahatase Inhibition](http://www.mdpi.com/1420-3049/23/2/353)
-__Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.
+* [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)  
+
+   Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
+
+* [VSpipe, an Integrated Resource for Virtual Screening and Hit Selection: Applications to Protein Tyrosine Phospahatase Inhibition](http://www.mdpi.com/1420-3049/23/2/353)  
+
+   __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.
+
+# __Society Memberships__
+
+### *Nov 2017 - Present*
+
+   * **SRUK** - Society of Spanish Researchers in the UK  
+      Member of the [**working group**](https://sruk.org.uk/constituencies/london/) team in the London constituency and [**London press officer**](https://sruk.org.uk/about-us/the-team/press-department/).
+   
+### *Jan 2018 - Present*
+
+   * **SSB** – Society of Systematic Biologists
+
+# __Workshops & Seminars__
+
+### *Nov 2017* 
+
+   * **NERC DTP induction at QMUL**  
+      Overview of the work carried out at dos Reis lab and about my PhD project. The practical part was focused on understanding the usage of the bioinformatics tools we use followed by a quick guide on a morphometrics analysis (access [here](https://sabifo4.github.io/blog/Morphometrics_and_Procrustes_alignment)).
+
+### *Apr 2018*
+
+   * **Scientific Computing: A practical introduction to R and Python for researchers**  
+   Event sponsored by the SRUK society and co-organized with Dr. Diego Alonso. You can access part of the workshop [here](https://github.com/dalonsoa/scientific_computing).
+
+# __Teaching__
+
+### *2016 - 2017*  
+   
+   * **Demonstrator: Biochemistry laboratories**  
+   Module BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day + Test marking)
+   
+   * **Demonstrator: Dry lab tutorials**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   
+   * **Demonstrator: Thinking workshops**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   
+   * **Demonstrator: Free style laboratories**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+
+### *2017 - 2018*
+   
+   * **Demonstrator: Stats & R**  
+   Module BIO309, Undergraduate level (year 3), Queen Mary University of London. (3 hours/day)
+   
+   * **Demonstrator: Thinking workshops**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   
