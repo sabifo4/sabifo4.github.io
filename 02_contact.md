@@ -11,7 +11,7 @@ You can reach me at:
 School of Biological and Chemical Sciences  
 Queen Mary University of London  
 London, E1 4NS
-<p align="center">
+<p align="left">
  <img  src="https://github.com/sabifo4/sabifo4.github.io/blob/master/assets/figs/qmul.png">
  </p>
 
