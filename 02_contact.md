@@ -21,6 +21,6 @@ practising Ashtanga Yoga at the [Yoga Place E2 studio](http://www.yogaplace.co.u
 where I spend most of my spare time!
 
 <p align="left">
- <img width="200" height="200" src="https://github.com/sabifo4/sabifo4.github.io/blob/master/assets/figs/mecw.png">
- <img width="200" height="200" src="https://pbs.twimg.com/profile_images/372351225/YP_logo_08_Twitter_400x400.jpg">
+ <img width="180" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscMysPDh8IHcNWIgKUzwXe9ci3M9WoYSg97TBFb4DH9LZKFEK">
+ <img width="100" height="100" src="https://pbs.twimg.com/profile_images/372351225/YP_logo_08_Twitter_400x400.jpg">
 </p>
