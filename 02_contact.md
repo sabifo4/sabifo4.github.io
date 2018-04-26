@@ -12,7 +12,7 @@ School of Biological and Chemical Sciences
 Queen Mary University of London  
 London, E1 4NS
 <p align="left">
- <img  src="https://github.com/sabifo4/sabifo4.github.io/blob/master/assets/figs/qmul.png">
+ <img  src="/assets/figs/qmul.png">
  </p>
 
 If I am not working, you can always find me
