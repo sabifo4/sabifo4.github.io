@@ -36,7 +36,8 @@ study species divergences through time.
 
 # __Publications__
 
-* [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253) (Dissertation): __Álvarez-Carretero S__
+* [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253) (Dissertation):
+__Álvarez-Carretero S__
 
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)
 : Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
