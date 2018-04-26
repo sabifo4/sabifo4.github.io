@@ -73,7 +73,7 @@ study species divergences through time.
 ### *2016 - 2017*  
    
    * **Demonstrator: Biochemistry laboratories**  
-   Module BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day + Test marking)
+   Module BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
    
    * **Demonstrator: Dry lab tutorials**  
    Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
@@ -82,7 +82,7 @@ study species divergences through time.
    Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
    
    * **Demonstrator: Free style laboratories**  
-   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day  + Test marking)
 
 ### *2017 - 2018*
    
