@@ -8,7 +8,7 @@ Hi all!
 
 I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at dos Reis Lab research group at Queen Mary University of London.
 
->![](/assets/figs/sac.png)
+![](/assets/figs/sac.png)
 
 Even though now I cannot imagine a day working without my laptop, my career started
 at the wet lab and, little by little, I specialised in computer science:
@@ -35,6 +35,8 @@ where I am working on the application of Bayesian MCMC statistical methods to
 study species divergences through time.
 
 # __Publications__
+
+* [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253) (Dissertation): __Álvarez-Carretero S__
 
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)
 : Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
