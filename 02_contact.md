@@ -11,9 +11,9 @@ You can reach me at:
 School of Biological and Chemical Sciences  
 Queen Mary University of London  
 London, E1 4NS
-<p align="left">
- <img  src="/assets/figs/qmul.png">
- </p>
+{:refdef: style="text-align: left;"}
+![](/assets/figs/qmul.png){:height="20%" width="20%"}
+{: refdef}
 
 If I am not working, you can always find me
 climbing the walls of the [Mile End climbing wall](https://www.mileendwall.org.uk/) or 
