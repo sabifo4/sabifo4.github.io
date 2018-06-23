@@ -42,35 +42,53 @@ study species divergences through time.
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)  
    Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
 
+* [BACTpipe: bacterial whole genome sequence assembly and annotation pipeline](https://bactpipe.readthedocs.io/en/latest/)   
+   Kirangwa J, __Álvarez-Carretero S__, Boulund F, Thorell K. (2017)
+
 * [VSpipe, an Integrated Resource for Virtual Screening and Hit Selection: Applications to Protein Tyrosine Phospahatase Inhibition](http://www.mdpi.com/1420-3049/23/2/353)  
    __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.
 
 # __Society Memberships__
 
-### *Nov 2017 - Present*
+#### *Nov 2017 - Present*
 
    * **SRUK** - Society of Spanish Researchers in the UK  
       Member of the [**working group**](https://sruk.org.uk/constituencies/london/) team in the London constituency and [**London press officer**](https://sruk.org.uk/about-us/the-team/press-department/).
    
-### *Jan 2018 - Present*
+#### *Jan 2018 - Present*
 
    * **SSB** – Society of Systematic Biologists
 
-# __Workshops & Seminars__
+# __Outreach, events organisation, and research presentations__
 
-### *Nov 2017* 
+#### *Nov 2017* 
 
    * **NERC DTP induction at QMUL**  
-      Overview of the work carried out at dos Reis lab and about my PhD project. The practical part was focused on understanding the usage of the bioinformatics tools we use followed by a quick guide on a morphometrics analysis (access [here](https://sabifo4.github.io/blog/Morphometrics_and_Procrustes_alignment)).
+      Overview of the work carried out at dos Reis lab and about my PhD project. The practical part was focused on understanding the usage of the bioinformatics tools we use followed by a quick guide on a morphometrics analysis.
 
-### *Apr 2018*
+#### *Dec 2017 - Apr 2018* 
 
-   * **Scientific Computing: A practical introduction to R and Python for researchers**  
-   Event sponsored by the SRUK society and co-organized with Dr. Diego Alonso. You can access part of the workshop [here](https://github.com/dalonsoa/scientific_computing).
+   * **Phylogroup XI**  
+      During these four months, I supported the organisation of the Phylogroup XI event. My main tasks were to collect the proposals for the oral presentations, to help decide which talks would be selected for the event, and organise the schedule of the event.
 
+#### *Apr 2018* 
+
+   * **Bayesian estimation of species divergence times using quantitative characters**  
+      Talk at Phylogroup XI about the preliminary results of my PhD research.
+
+#### *Mar 2018 - May 2018* 
+
+   * **VI International Symposium SRUK/CERU**  
+      During almost three months, I was in charge of the maintenance and development of the website of the event as well as of the forum to search for accommodation in Glasgow.
+      
+#### *Jun 2018* 
+
+   * **Back to present: Understanding evolution**  
+      Activity that I prepared for the Science Zone as part of the VI International Symposium SRUK/CERU in Glasgow. More information [here](https://sruk2018.com/science-zone/).
+      
 # __Teaching__
 
-### *2016 - 2017*  
+#### *Academic course 2016 - 2017*  
    
    * **Demonstrator: Biochemistry laboratories**  
    Module BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
@@ -84,7 +102,7 @@ study species divergences through time.
    * **Demonstrator: Free style laboratories**  
    Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day  + Test marking)
 
-### *2017 - 2018*
+#### *Academic course 2017 - 2018*
    
    * **Demonstrator: Stats & R**  
    Module BIO309, Undergraduate level (year 3), Queen Mary University of London. (3 hours/day)
@@ -92,3 +110,15 @@ study species divergences through time.
    * **Demonstrator: Thinking workshops**  
    Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
    
+#### *Apr 2018*
+
+   * **Scientific Computing: A practical introduction to R and Python for researchers**  
+   Event sponsored by the SRUK society and co-organized with Dr. Diego Alonso. The resources can be found [here](https://github.com/dalonsoa/scientific_computing).
+   
+#### *May 2018*
+
+   * **Teaching Assistant (TA): Computational Molecular Evolution course**  
+   The outline of the CoME18 course, which took place in Crete, can be found [here](http://meetings.embo.org/event/18-computational-evolution). As a TA, I had to provide support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study molecular evolution.     
+   
+   * **Introduction to R and Python**  
+   Event that I organised during the Computational Molecular Evolution Course in Crete. The resources used can be found [here](https://github.com/dalonsoa/scientific_computing).
