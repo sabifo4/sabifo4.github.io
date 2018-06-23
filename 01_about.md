@@ -84,7 +84,7 @@ study species divergences through time.
 #### *Jun 2018* 
 
    * **Back to present: Understanding evolution**  
-      Activity that I prepared for the Science Zone as part of the VI International Symposium SRUK/CERU in Glasgow. More information [here](https://sruk2018.com/science-zone/).
+      Activity that I prepared for the Science Zone as part of the VI International Symposium SRUK/CERU in Glasgow. More information [**here**](https://sruk2018.com/science-zone/).
       
 # __Teaching__
 
@@ -113,12 +113,12 @@ study species divergences through time.
 #### *Apr 2018*
 
    * **Scientific Computing: A practical introduction to R and Python for researchers**  
-   Event sponsored by the SRUK society and co-organized with Dr. Diego Alonso. The resources can be found [here](https://github.com/dalonsoa/scientific_computing).
+   Event sponsored by the SRUK society and co-organized with Dr. Diego Alonso. The resources can be found [**here**](https://github.com/dalonsoa/scientific_computing).
    
 #### *May 2018*
 
    * **Teaching Assistant (TA): Computational Molecular Evolution course**  
-   The outline of the CoME18 course, which took place in Crete, can be found [here](http://meetings.embo.org/event/18-computational-evolution). As a TA, I had to provide support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study molecular evolution.     
+   The outline of the CoME18 course, which took place in Crete, can be found [**here**](http://meetings.embo.org/event/18-computational-evolution). As a TA, I had to provide support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study molecular evolution.     
    
    * **Introduction to R and Python**  
-   Event that I organised during the Computational Molecular Evolution Course in Crete. The resources used can be found [here](https://github.com/dalonsoa/scientific_computing).
+   Event that I organised during the Computational Molecular Evolution Course in Crete. The resources used can be found [**here**](https://github.com/dalonsoa/scientific_computing).
