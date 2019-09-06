@@ -8,9 +8,7 @@ Hi all!
 
 I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at [dos Reis Lab research group](https://dosreislab.github.io/) at Queen Mary University of London.
 
-<p align="left">
-  <img width="300" height="300" src="https://github.com/sabifo4/sabifo4.github.io/blob/master/assets/figs/sac.png">
-</p>
+> ![](/assets/figs/sac.png){:height="30%" width="40%"}
 
 Even though now I cannot imagine a day working without my laptop, my career started
 at the wet lab and, little by little, I specialised in computer science:
