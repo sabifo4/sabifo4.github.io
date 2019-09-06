@@ -6,9 +6,11 @@ permalink: /about/
 
 Hi all!
 
-I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at dos Reis Lab research group at Queen Mary University of London.
+I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at [dos Reis Lab research group](https://dosreislab.github.io/) at Queen Mary University of London.
 
-![](/assets/figs/sac.png)
+<p align="left">
+  <img width="300" height="300" src="https://github.com/sabifo4/sabifo4.github.io/blob/master/assets/figs/sac.png">
+</p>
 
 Even though now I cannot imagine a day working without my laptop, my career started
 at the wet lab and, little by little, I specialised in computer science:
@@ -37,13 +39,13 @@ study species divergences through time.
 # __Publications__
 
 * [BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253)  
-   __Álvarez-Carretero S__ (2016, Dissertation)
+   __Álvarez-Carretero S__ (2016, Dissertation).
 
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)  
    Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
 
 * [BACTpipe: bacterial whole genome sequence assembly and annotation pipeline](https://bactpipe.readthedocs.io/en/latest/)   
-   Kirangwa J, __Álvarez-Carretero S__, Boulund F, Thorell K. (2017)
+   Kirangwa J, __Álvarez-Carretero S__, Boulund F, Thorell K. (2017).
 
 * [VSpipe, an Integrated Resource for Virtual Screening and Hit Selection: Applications to Protein Tyrosine Phospahatase Inhibition](http://www.mdpi.com/1420-3049/23/2/353)  
    __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.
@@ -59,7 +61,7 @@ study species divergences through time.
 #### *Nov 2017 - Present*
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  
-      Member since 2017, affiliated at the London constituency. [**Secretary of the London working group**](https://sruk.org.uk/constituencies/london/) since 2019, **London press officer** and **blog editor** since 2018 in the [press department](https://sruk.org.uk/about-us/the-team/press-department/) and **chief editor of the SRUK/CERU blog** since 2019 at the [blog department](https://sruk.org.uk/blog/).
+      Member of the London working group since 2017 and [**secretary of the London working group**](https://sruk.org.uk/constituencies/london/) since 2019, **London press officer** and **blog editor** since 2018 in the [press department](https://sruk.org.uk/about-us/the-team/press-department/) and **chief editor of the SRUK/CERU blog** since 2019 at the [blog department](https://sruk.org.uk/blog/).
    
 #### *Jan 2018 - Present*
 
@@ -174,10 +176,10 @@ study species divergences through time.
 # __Awards__
 
    * [**Student excellence award for the BSc in Biochemistry and Molecular Biology**](https://seuelectronica.urv.cat/media/upload/pdf//cg_20160225_punt71_premis_ext_grau_mast_corrsl_pend_sig_editora_4_1_2128.pdf), awarded by Universitat Rovira I Virgili.   
-   (Original award name: “Premi Extraordinari de Final d’Estudis del grau de Bioquímica I Biologia Molecular”)   
+   (Original award name: _Premi Extraordinari de Final d’Estudis del grau de Bioquímica I Biologia Molecular_)   
    * [**National awards after University degree completion during the 2014-15 academic course**](http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998341/ficha/998341-2014-2015.html), awarded by Ministerio de Educación, Cultura y Deporte.   
-   (Original award name: “Premios Nacionales de Fin de Carrera de Educación Universitaria para el curso académico 2014-2015”)   
-   * [**Ernst Mayr Award**](https://www.systbio.org/ernst-mayr-award.html), awarded by the Society of Systematic Biologsts.
+   (Original award name: _Premios Nacionales de Fin de Carrera de Educación Universitaria para el curso académico 2014-2015_)   
+   * [**Ernst Mayr Award**](https://www.systbio.org/ernst-mayr-award.html), awarded by the Society of Systematic Biologists.
 
 # __Peer-review__
 
