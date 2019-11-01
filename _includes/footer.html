@@ -40,6 +40,8 @@
 		  {% if site.linkedin_username %}
 		  <li>
 			{% include icon-linkedin.html username=site.linkedin_username %}
+		  {% else %}
+			{{ site.linkedin_username | escape }}
 		  </li>
 		  {% endif %}
         </ul>
