@@ -20,8 +20,8 @@ Queen Mary University of London
 
 **_When I am not at work..._**
 
-If I am not at the office, you might find me practising mySore Ashtanga Yoga with Susan Bish at [Yoga Place E2 studio](http://www.yogaplace.co.uk/london-class-schedule-prices-wo/) or attending one of Bianca Montesi's [yoga classes](https://www.biancayoga.net/) :) If you ever wanted to give yoga a go during your break time, I highly recommend you to attend their classes - they are both wonderful and highly qualified yoga teachers!! Come along and say hi :) 
-
+If I am not at the office, you might find me practising mySore Ashtanga Yoga with Susan Bish at [Yoga Place E2 studio](http://www.yogaplace.co.uk/london-class-schedule-prices-wo/) or attending one of [Bianca Montesi's yoga classes](https://www.biancayoga.net/) :) If you are in London and keen on yoga, I highly recommend you to attend their classes - they are both wonderful and highly qualified yoga teachers!! Come along and say hi :) 
+ant
 <p align="left">
  <img width="150" height="150" src="/assets/figs/sac2.jpg">
 </p>
