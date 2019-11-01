@@ -56,6 +56,12 @@ study species divergences through time.
 
 * [Bayesian Estimation of Species Divergence Times Using Correlated Quantitative Characters](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz015/5366706)  
    __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biology.
+   
+* [Identification of Functional and Druggable Sites in Aspergillus fumigatus Essential Phosphatases by Virtual Screening](https://www.mdpi.com/1422-0067/20/18/4636/htm)   
+   Thornton BP, Johns A, Al-Shidhani R, __Álvarez-Carretero S__, Storer ISR, Bromley MJ, Tabernero L. (2019) Molecules.
+   
+* [Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)   
+   McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
 
 <br />
 
@@ -63,8 +69,7 @@ study species divergences through time.
 
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the London working group since 2017 and [**secretary of the London working group**](https://sruk.org.uk/constituencies/london/) since 2019, **London press officer** and **blog editor** since 2018 in the [press department](https://sruk.org.uk/about-us/the-team/press-department/) and **chief editor of the SRUK/CERU blog** since 2019 at the [blog department](https://sruk.org.uk/blog/).
-    
+      Member of the SRUK/CERU London working group since 2017 and [**secretary of the SRUK/CERU London constituency**](https://sruk.org.uk/constituencies/london/) since 2019, **London press officer** and **blog editor** since 2018 in the [press department](https://sruk.org.uk/about-us/the-team/press-department/) and **chief editor of the SRUK/CERU blog** since 2019 in the [blog department](https://sruk.org.uk/blog/).
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** - Society for the Study of Evolution *(Feb 2019 - Present)* 
    * **Genetics Society** *(Apr 2019 - Present)*   
@@ -100,7 +105,7 @@ study species divergences through time.
    * **Back to present: Understanding evolution** *(Jun 2018)*  
       Activity that I prepared for the Science Zone as part of the VI International Symposium SRUK/CERU in Glasgow.  
 
-   * **Comparison of relaxed-clock models using the Bayesian model selection implemented in MCMCtree (_Evolution 2018 poster_)** *(Aug 2018)*  
+   * **Comparison of relaxed-clock models using the Bayesian model selection implemented in MCMCtree (_Evolution 2018 meeting, poster_)** *(Aug 2018)*  
       Poster presentation at the joint Evolution 2018 meeting showing how to use the mcmc3r R package to estimate the marginal likelihood using the likelihood collected during MCMC chains ran in MCMCtree and compute Bayes factors for model selection. You can find the poster [here](https://dosreislab.github.io/2018/08/22/evolution2018.html).
       
 #### *Academic course 2018/2019* 
@@ -108,7 +113,7 @@ study species divergences through time.
    * **NERC DTP induction at QMUL** *(Nov 2018)*  
       Overview of the work carried out at dos Reis lab and a hands-on tutorial on how to generate a molecular alignment, estimate a molecular tree, and process morphometrics data.
       
-   * **Bayesian estimation of species divergence times using correlated quantitative characters (_YSF18 talk_)** *(Nov 2018)*  
+   * **Bayesian estimation of species divergence times using correlated quantitative characters (_YSF18 meeting, talk_)** *(Nov 2018)*  
       Talk at the YSF2018 1-day symposium on the paper already submitted about the main method I had been working on my PhD.  
 
    * **II Scientific Computing Workshop: A practical introduction to R and Python for researchers** *(Mar 2019)*   
@@ -120,39 +125,58 @@ study species divergences through time.
    * **Introduction to R** *(May 2019)*  
       One-morning sessions about programming in R that I organized during the Computational Molecular Evolution course in Hinxton.
 
+   * **Bayesian estimation of species divergence times using correlated quantitative characters (_Evolution 2019 meeting, awards talk_)** *(June 2019)*  
+      Talk at the Evolution 2019 meeting, with which I was granted the **Ernst Mayr award**.
+      
+#### *Academic course 2019/2020* 
+
+   * **NERC DTP induction at QMUL** *(Nov 2019)*  
+      Overview of the work carried out at dos Reis lab and a hands-on tutorial on how to generate a molecular alignment, estimate a molecular tree, and process morphometrics data.
+
 <br />
 
 # __Teaching__
 
 #### *Academic course 2016 - 2017*  
    
-   * **Demonstrator: Biochemistry laboratories**  
-   Module BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Biochemistry laboratories**  
+   Module BIO199, Undergraduate level (year 1), Queen Mary University of London.
    
-   * **Demonstrator: Dry lab tutorials**  
-   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Dry lab tutorials**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London.
    
-   * **Demonstrator: Thinking workshops**  
-   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Thinking workshops**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London.
    
-   * **Demonstrator: Free style laboratories**  
-   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day  + Test marking)
+   * **Demonstrator (TA): Free style laboratories**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London.
 
 #### *Academic course 2017 - 2018*
    
-   * **Demonstrator: Stats & R**  
-   Module BIO309, Undergraduate level (year 3), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Stats & R**  
+   Module BIO309, Undergraduate level (year 3), Queen Mary University of London.
    
-   * **Demonstrator: Thinking workshops**  
-   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Thinking workshops**  
+   Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London.
   
 #### *Academic course 2018 - 2019*
    
-   * **Demonstrator: Stats & R**  
-   Module BIO309, Undergraduate level (year 3), Queen Mary University of London. (3 hours/day)
+   * **Demonstrator (TA): Stats & R**  
+   Module BIO309, Undergraduate level (year 3), Queen Mary University of London.
    
-   * **Demonstrator: Practical laboratories and Seminars**  
-   Modules SEF033, Foundation level, Queen Mary University of London. (3 hours/day for practical laboratories and 2 hours/day for seminars)
+   * **Demonstrator (TA): Practical laboratories and Seminars**  
+   Modules SEF033, Foundation level, Queen Mary University of London.
+ 
+#### *Academic course 2019 - 2020*
+   
+   * **Demonstrator (TA): Stats & R**  
+   Module BIO309, Undergraduate level (year 3), Queen Mary University of London.
+   
+   * **Demonstrator (TA): IT stats for Molecular and Cellular Biology practicals**  
+   Module BIO190, Undergraduate level (year 1), Queen Mary University of London.
+   
+   * **Demonstrator (TA): Statistics for Bioinformaticians**  
+   Module BIO782P, Graduate level (MSc programme in Bioinformatics), Queen Mary University of London.
    
 <br />
 
@@ -173,4 +197,4 @@ Reviewer for _Systematic Biology_, _Bioinformatics_, and _Methods in Ecology and
 
 ----
 
-Last update: 2019/09/06.
+Last update: 2019/11/01.
