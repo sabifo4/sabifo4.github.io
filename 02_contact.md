@@ -14,6 +14,8 @@ Queen Mary University of London
  <img width="200" height="50" src="/assets/figs/qmul.png">
 </p>
 
+<br />
+
 ---
 ---
 <br />
