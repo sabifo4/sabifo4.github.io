@@ -187,7 +187,7 @@ study species divergences through time.
 # __Society Memberships__
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the SRUK/CERU London working group since 2017 and [**secretary of the SRUK/CERU London constituency**](https://sruk.org.uk/constituencies/london/) since 2019, [**London press officer blog editor**](https://sruk.org.uk/about-us/the-team/press-department/) since 2018 in the press department and [**chief editor of the SRUK/CERU blog**](https://sruk.org.uk/blog/) since 2019 in the blog department.
+      Member of the SRUK/CERU London working group since 2017 and [**secretary of the SRUK/CERU London constituency**](https://sruk.org.uk/constituencies/london/) since 2019, [**London press officer and blog editor**](https://sruk.org.uk/about-us/the-team/press-department/) since 2018 in the press department and [**chief editor of the SRUK/CERU blog**](https://sruk.org.uk/blog/) since 2019 in the blog department.
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** - Society for the Study of Evolution *(Feb 2019 - Present)* 
    * **Genetics Society** *(Apr 2019 - Present)*   
