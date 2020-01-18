@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi all!
 
-I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at [dos Reis Lab research group](https://dosreislab.github.io/) at Queen Mary University of London.
+I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at [dos Reis Lab research group](https://dosreislab.github.io/people/) at Queen Mary University of London.
 
 > ![](/assets/figs/sac.png){:height="20%" width="30%"}
 
