@@ -144,6 +144,9 @@ study species divergences through time.
    
    * **Demonstrator (TA): Thinking workshops**  
    Modules BIO193 and BIO199, Undergraduate level (year 1), Queen Mary University of London.   
+   
+   * **Teaching Assistant (TA): Computational Molecular Evolution course**   
+   Providing support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study molecular evolution.
      
 #### *Academic course 2018 - 2019*
    
@@ -167,8 +170,6 @@ study species divergences through time.
    * **Demonstrator (TA): Statistics for Bioinformaticians**  
    Module BIO782P, Graduate level (MSc programme in Bioinformatics), Queen Mary University of London.   
    
-   * **Teaching Assistant (TA): Computational Molecular Evolution course**   
-   Providing support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study molecular evolution.
    
 <br />
 
