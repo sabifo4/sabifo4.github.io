@@ -44,16 +44,19 @@ study species divergences through time.
    McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
    
 * [Identification of Functional and Druggable Sites in Aspergillus fumigatus Essential Phosphatases by Virtual Screening](https://www.mdpi.com/1422-0067/20/18/4636/htm)   
-   Thornton BP, Johns A, Al-Shidhani R, __Álvarez-Carretero S__, Storer ISR, Bromley MJ, Tabernero L. (2019) Molecules.
+   Thornton BP, Johns A, Al-Shidhani R, __Álvarez-Carretero S__, Storer ISR, Bromley MJ, Tabernero L. (2019) Molecules.   
 
 * [Bayesian Estimation of Species Divergence Times Using Correlated Quantitative Characters](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz015/5366706)  
-   __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biology.
+   __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biology.   
+   > The step-by-step tutorial followed to carry out each computational task of this study can be found [here](https://github.com/sabifo4/morpho).   
+   > The R functions described in this study were implemented in the `mcmc3r` R package, available for download [here](https://github.com/dosreislab/mcmc3r). 
 
 * [The bile salt glycocholate induces global changes in gene and protein expression and activates virulence in enterotoxigenic Escherichia coli](http://www.mdpi.com/1420-3049/23/2/353)  
    Joffre E, Nicklasson M, __Álvarez-Carretero S__, Xiao X, Sun L, Nookaew I, Zhu B, Sjöling Å. (2019) Scientific Reports.
 
 * [VSpipe, an Integrated Resource for Virtual Screening and Hit Selection: Applications to Protein Tyrosine Phospahatase Inhibition](http://www.mdpi.com/1420-3049/23/2/353)  
-   __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.
+   __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.   
+   > `VSpipe` is an open-source code available for download [here](https://github.com/sabifo4/VSpipe).
 
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)  
    Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
