@@ -1,7 +1,8 @@
-# Understanding computational evolutionary biology
+# Personal website
 
-I am Sandra Álvarez-Carretero, a PhD student at [**dos Reis Lab**](dosreislab.github.io) research group at [Queen Mary University of London](http://www.sbcs.qmul.ac.uk/). 
+I am Sandra Álvarez-Carretero, a post-doctoral researcher at at [Ziheng Yang Lab](http://abacus.gene.ucl.ac.uk/) at [University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment). 
 
-My main project is focused on elucidating the evolutionary history of species through time by combining two sources of information: molecular data (genomes) and morphological continuous data (fossils). In order to do this, I am using and/or developing various bioinformatics tools focused on bayesian statistics. The main programming languages I use for this project are R, Perl, and bash. 
+My main research interest is focused on developing and using computational methods to 
+elucidate the evolutionary history of species through time by combining two sources of information: molecular data and morphological quantitative data.
 
-With this website, I aim to provide an overview of the different approaches we use and/or develop at the lab. You can visit it here: [Bridging computer science, statistics, and biology](https://sabifo4.github.io/)
+You can visit my personal website here: [Bridging computer science, statistics, and biology](https://sabifo4.github.io/)
