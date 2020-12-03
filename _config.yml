@@ -15,14 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Bridging computer science, statistics, and biology
 author: Sandra Álvarez-Carretero
-email: s.alvarez-carretero@qmul.ac.uk
-description: PhD student at QMUL
+email: s.alvarez-carretero@ucl.ac.uk
+description: Post-doctoral researcher at UCL
 description2: Evolutionary biology, bayesian statistics, and biopipelines!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""     # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sabifo4
 github_username:  sabifo4
-#linkedin_username: sandra-álvarez-carretero-a55b32100
 # Build settings
 markdown: kramdown
 theme: minima
@@ -42,10 +41,10 @@ exclude:
   - Gemfile.lock
   - README.md
 #   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/
 
 # Include the following:
 include: 

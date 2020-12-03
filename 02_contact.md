@@ -6,12 +6,12 @@ permalink: /contact/
 
 You can reach me at:
 
-[s.alvarez-carretero@qmul.ac.uk](mailto://s.alvarez-carretero@qmul.ac.uk) 
+[s.alvarez-carretero@ucl.ac.uk](mailto://s.alvarez-carretero@ucl.ac.uk) 
 
-School of Biological and Chemical Sciences  
-Queen Mary University of London  
+Division of Biosciences, GEE Deparment   
+University College London  
 <p align="left">
- <img width="200" height="50" src="/assets/figs/qmul.png">
+ <img width="200" height="80" src="/assets/figs/Logo_UCL.jpg">
 </p>
 
 <br />
@@ -20,12 +20,11 @@ Queen Mary University of London
 ---
 <br />
 
-**_When I am not at work..._**
+**_When I am not working..._**
 
-If I am not at the office, you might find me practising Mysore Ashtanga Yoga with [Susan Bysh at Yoga Place E2 studio](https://www.yogaplace.co.uk/mysore-self-practice/) or attending one of [Bianca Montesi's yoga classes](https://www.biancayoga.net/) :) If you are in London and keen on practising yoga, I highly recommend you to attend their classes - they are both wonderful and highly qualified yoga teachers!!
+... you might find me practising Mysore Ashtanga Yoga with [Susan Bysh](https://www.facebook.com/YogaPlaceMysoreStyleAshtanga) or attending one of [Bianca Montesi's yoga classes](https://www.biancayoga.net/).
+I highly recommend joining their classes - they are both wonderful and highly qualified yoga teachers! Now you can even join their classes via Zoom, no need to be in London! 
 
 <p align="left">
- <img width="150" height="150" src="/assets/figs/sac2.jpg">
+ <img width="50" height="50" src="/assets/figs/img.png">
 </p>
-
-_Namasté_

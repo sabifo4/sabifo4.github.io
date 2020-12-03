@@ -4,14 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Hi all!
+![image](/assets/figs/sac.jpg){: style="float: right" width="20%"}
+Hi everyone!
 
-I am Sandra Álvarez-Carretero, a computer scientist currently doing my PhD at [dos Reis Lab research group](https://dosreislab.github.io/people/) at Queen Mary University of London.
+I am Sandra Álvarez-Carretero, a computer scientist currently doing my PostDoc at [Ziheng Yang Lab](http://abacus.gene.ucl.ac.uk/) at University College London.
 
-![](/assets/figs/sac.png){:height="20%" width="30%"}
+[comment]: # ![](/assets/figs/sac.png){:height="20%" width="20%"}
 
 Even though now I cannot imagine a day working without my laptop, my career started
 at the wet lab and, little by little, I specialised in computer science:
+
+<br />
+<br />
 
 * __BSc in Biochemistry and Molecular Biology__ *([Universidad Rovira I Virgili](http://www.urv.cat/es/estudios/grados/oferta/graudebioquimica/), Spain)*
 : During this 4-year BSc, most of the practicals were wet lab-related. However, it was not until I took the bioinformatics course that I realised how much 
@@ -31,14 +35,23 @@ where I developed a pipeline to characterise bacterial isolates based on whole-g
 * __PhD student__ *([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)*
 : Once I finished my MSc, I decided to explore other fields in computer science such as 
 bayesian statistics and modelling where I could learn more about the maths used in this field. 
-Currently, I am carrying out my PhD at [__dos Reis Lab__](dosreislab.github.io) research group,
-where I am working on the application of Bayesian MCMC statistical methods to 
-study species divergences through time.
+I carried out my PhD at [dos Reis Lab](dosreislab.github.io) research group, at Queen Mary University of Lonond,
+working on the application of Bayesian MCMC statistical methods to 
+study species divergences through time with both molecular and morphological quantitative data.
+
+* __Post-doctoral researcher__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*
+: Currently, my main interest is focused on developing and applying new methods to estimate species divergence times with morphological
+quantitative data. I aim to use these new tools in timetree inference when combining large-scale morphological datasets (with both
+extant and fossil species) with phylogenomic data sets. Assessing the mixing and computational limitations of MCMC algorithms in this type 
+of analysis will be key to understand the compromise between computational time and data size.
 
 <br />
 
 
 # __Publications__
+
+* Bayesian phylogenomic dating   
+   __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (_in press_).
 
 * [Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)   
    McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
@@ -65,7 +78,7 @@ study species divergences through time.
 
 # __Outreach, events organisation, and research presentations__
 
-#### *Academic course 2017/2018* 
+#### *Academic course 2017-2018* 
 
    * **NERC DTP induction at QMUL** *(Nov 2017)*  
       Overview of the work carried out at dos Reis lab and about my PhD project. The practical part was focused on understanding the usage of the bioinformatics tools we use followed by a quick guide on a morphometrics analysis (acess [here](https://sabifo4.github.io/blog/Morphometrics_and_Procrustes_alignment)). 
@@ -112,7 +125,7 @@ study species divergences through time.
       Activity that I prepared for the Science Zone as part of the VII International Symposium SRUK/CERU in Liverpool. 
 
    * **Bayesian estimation of species divergence times using correlated quantitative characters** *(June 2019 | Evolution 2019 meeting, awards talk)*  
-      Talk at the Evolution 2019 meeting, with which I was granted the **Ernst Mayr award**.
+      Talk at the Evolution 2019 meeting, with which I was granted the [**Ernst Mayr award**](https://www.systbio.org/ernst-mayr-award.html).
       
 #### *Academic course 2019/2020* 
 
@@ -121,6 +134,14 @@ study species divergences through time.
       
    * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Nov 2019 | YSF19 meeting, poster)*   
       Poster presentation at the YSF2019 1-day symposium on the submitted manuscript about the evolution of canids with a special focus on the dispersal and speciation of dire wolves.   
+
+#### *Academic course 2020/2021* 
+
+   * **NERC DTP induction at QMUL** *(Nov 2020)*  
+      Overview of the work carried out at dos Reis lab and a hands-on tutorial on how to generate a molecular alignment, estimate a molecular tree, and process morphometrics data.   
+      
+   * **Bayesian estimation of species divergence times using GMM data** *(Nov 2020)*   
+      Talk at the CLOE seminar organised by UCL.   
 
 <br />
 
@@ -191,18 +212,16 @@ study species divergences through time.
 # __Society Memberships__
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the SRUK/CERU London working group since 2017 and [**secretary of the SRUK/CERU London constituency**](https://sruk.org.uk/constituencies/london/) since 2019, [**London press officer and blog editor**](https://sruk.org.uk/about-us/the-team/press-department/) since 2018 in the press department and [**chief editor of the SRUK/CERU blog**](https://sruk.org.uk/blog/) since 2019 in the blog department.
+      Member of the SRUK/CERU London working group since 2017 and [**secretary of the SRUK/CERU London constituency**](https://sruk.org.uk/constituencies/london/) since 2019. [**London press officer and SRUK/CERU blog editor**](https://sruk.org.uk/about-us/the-team/press-department/) since 2018 in the press department and [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/blog/) since 2019 in the blog department.
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
-   * **SSE** - Society for the Study of Evolution *(Feb 2019 - Present)* 
-   * **Genetics Society** *(Apr 2019 - Present)*   
-   * **ASN** - American Society of Naturalists *(Apr 2019 - Present)*
+   * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
 
 <br />
 
 # __Peer-review__
 
-Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, and _Cambridge Elements STM3_.
+Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, _Cambridge Elements STM3_, and _Nature Ecology and Evolution_.
 
 ----
 
-Last update: 2020/01/18.
+Last update: 2020/12/03.
