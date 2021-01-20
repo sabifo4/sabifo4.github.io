@@ -54,7 +54,7 @@ of analysis will be key to understand the compromise between computational time 
    __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
 
 * [Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)   
-   Perri Angela R<sup>*</sup>, Mitchell Kieren J<sup>*</sup>, Mouton Alice<sup>*</sup>, __Álvarez-Carretero S__<sup>*</sup>, et al (2021). Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />
+   Perri Angela R<sup>*</sup>, Mitchell Kieren J<sup>*</sup>, Mouton Alice<sup>*</sup>, __Álvarez-Carretero S__<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />
 
 * [Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)   
    McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
@@ -199,7 +199,7 @@ of analysis will be key to understand the compromise between computational time 
    
 #### *Academic course 2020 - 2021*
    
-   * **Instructor: Stats & R**  
+   * **Instructor: Molecular Evolution**  
    Module BIOL0033, MSci programme (year 4), University College of London.
     
    
