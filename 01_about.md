@@ -9,7 +9,7 @@ Hi everyone!
 
 I am Sandra Álvarez-Carretero, a computer scientist currently doing my PostDoc at [Ziheng Yang Lab](http://abacus.gene.ucl.ac.uk/) at University College London.
 
-[comment]: # ![](/assets/figs/sac.png){:height="20%" width="20%"}
+
 
 Even though now I cannot imagine a day working without my laptop, my career started
 at the wet lab and, little by little, I specialised in computer science:
@@ -50,8 +50,11 @@ of analysis will be key to understand the compromise between computational time 
 
 # __Publications__
 
-* Bayesian phylogenomic dating   
-   __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (_in press_).
+* [Bayesian phylogenomic dating](https://www.springer.com/gp/book/9783030601805)   
+   __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
+
+* [Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)   
+   Perri Angela R<sup>*</sup>, Mitchell Kieren J<sup>*</sup>, Mouton Alice<sup>*</sup>, __Álvarez-Carretero S__<sup>*</sup>, et al (2021). Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />
 
 * [Phylogenomic Resolution of the Cetacean Tree of Life Using Target Sequence Capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)   
    McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
@@ -224,4 +227,4 @@ Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evo
 
 ----
 
-Last update: 2020/12/03.
+Last update: 2021/01/20.
