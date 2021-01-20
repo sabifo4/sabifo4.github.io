@@ -50,7 +50,7 @@ of analysis will be key to understand the compromise between computational time 
 
 # __Publications__
 
-* [Bayesian phylogenomic dating](https://www.springer.com/gp/book/9783030601805)   
+* [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)   
    __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
 
 * [Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)   
