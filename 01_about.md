@@ -116,7 +116,7 @@ of analysis will be key to understand the compromise between computational time 
       Talk at the YSF2018 1-day symposium on the paper already submitted about the main method I had been working on my PhD.  
       
    * **VII International Symposium SRUK/CERU** *(Nov 2018 - Jun 2019)* 
-      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event (see [here](https://sruk2019.com/)).   
+      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event.   
 
    * **II Scientific Computing Workshop: A practical introduction to R and Python for researchers** *(Mar 2019)*   
       Event sponsored by the SRUK/CERU society that I co-organized with Dr. Diego Alonso.   
@@ -196,6 +196,12 @@ of analysis will be key to understand the compromise between computational time 
    
    * **Demonstrator (TA): Statistics for Bioinformaticians**  
    Module BIO782P, Graduate level (MSc programme in Bioinformatics), Queen Mary University of London.   
+   
+#### *Academic course 2020 - 2021*
+   
+   * **Instructor: Stats & R**  
+   Module BIOL0033, MSci programme (year 4), University College of London.
+    
    
    
 <br />
