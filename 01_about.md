@@ -245,7 +245,7 @@ of analysis will be key to understand the compromise between computational time 
 # __Society Memberships__
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency (2019-2021)](https://sruk.org.uk/constituencies/london/). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/initiatives/public-engagement/sruk-blog/) since 2019, and [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/) and website manager since 2021.
+      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, and [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/) and website manager since 2021.   
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
 
