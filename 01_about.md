@@ -39,7 +39,7 @@ I carried out my PhD at [dos Reis Lab](dosreislab.github.io) research group, at 
 working on the application of Bayesian MCMC statistical methods to 
 study species divergences through time with both molecular and morphological quantitative data.
 
-* __Post-doctoral researcher__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*
+* __Post-doctoral researcher and Teaching fellow__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*
 : Currently, my main interest is focused on developing and applying new methods to estimate species divergence times with morphological
 quantitative data. I aim to use these new tools in timetree inference when combining large-scale morphological datasets (with both
 extant and fossil species) with phylogenomic data sets. Assessing the mixing and computational limitations of MCMC algorithms in this type 
@@ -51,7 +51,7 @@ of analysis will be key to understand the compromise between computational time 
 # __Publications__
 
 * [A Species-Level Timeline of Mammal Evolution Integrating Phylogenomic Data](https://rdcu.be/cDHW7)   
-   __Álvarez-Carretero S__<sup>*</sup>, Tamuri A<sup>*</sup>. et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />   
+   __Álvarez-Carretero S__<sup>*</sup>, Tamuri A<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />   
    
 * [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)   
    __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
@@ -141,7 +141,7 @@ of analysis will be key to understand the compromise between computational time 
    * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Nov 2019 | YSF19 meeting, poster)*   
       Poster presentation at the YSF2019 1-day symposium on the submitted manuscript about the evolution of canids with a special focus on the dispersal and speciation of dire wolves.   
  
-   * **SRUK Research Computing Workshop - R, Bash and Python** *(Feb & Jun 2020, 2 parts)*   
+   * **SRUK Research Computing Workshop - R, Bash and Python** *(Feb & Jun 2020, two sessions)*   
       Events sponsored by the SRUK/CERU society that I co-organized with Dr. Diego Alonso.   
 
 #### *Academic course 2020/2021* 
@@ -152,7 +152,7 @@ of analysis will be key to understand the compromise between computational time 
    * **Bayesian estimation of species divergence times using GMM data** *(Nov 2020)*   
       Talk at the CLOE seminar organised by UCL.   
       
-   * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Jun 2021)*   
+   * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Jun 2021 | Evolution 2021 online conference, talk)*   
       Talk at the Virtual Evolution 2021 conference.   
       
 #### *Academic course 2021/2022* 
