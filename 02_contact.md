@@ -19,12 +19,3 @@ University College London
 ---
 ---
 <br />
-
-**_When I am not working..._**
-
-... you might find me practising Mysore Ashtanga Yoga with [Susan Bysh](https://www.facebook.com/YogaPlaceMysoreStyleAshtanga) or attending one of [Bianca Montesi's yoga classes](https://www.biancayoga.net/).
-I highly recommend joining their classes - they are both wonderful and highly qualified yoga teachers! Now you can even join their classes via Zoom, no need to be in London! 
-
-<p align="left">
- <img width="50" height="50" src="/assets/figs/img.png">
-</p>
