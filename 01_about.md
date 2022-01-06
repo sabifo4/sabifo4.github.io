@@ -51,7 +51,7 @@ of analysis will be key to understand the compromise between computational time 
 # __Publications__
 
 * [A Species-Level Timeline of Mammal Evolution Integrating Phylogenomic Data](https://rdcu.be/cDHW7)   
-   __Álvarez-Carretero S__<sup>*</sup>, Tamuri A<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />   
+   __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />   
    
 * [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)   
    __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
@@ -150,16 +150,22 @@ of analysis will be key to understand the compromise between computational time 
       Overview of the work carried out at dos Reis lab and a hands-on tutorial on how to generate a molecular alignment, estimate a molecular tree, and process morphometrics data.   
       
    * **Bayesian estimation of species divergence times using GMM data** *(Nov 2020)*   
-      Talk at the CLOE seminar organised by UCL.   
+      Talk at the CLOE Joint Group Meeting organised by UCL.   
       
    * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Jun 2021 | Evolution 2021 online conference, talk)*   
       Talk at the Virtual Evolution 2021 conference.   
+      
+   * **A Bayesian approach to estimate species divergence times using geometric morphometrics data** *(Jun 2021)*   
+      Talk as part of the seminars organised by the Palaebiology Research group at University of Bristol.   
       
 #### *Academic course 2021/2022* 
 
    * **NERC DTP induction at QMUL** *(Nov 2021)*  
       Overview of the work carried out at dos Reis lab and a hands-on tutorial on how to generate a molecular alignment, estimate a molecular tree, and process morphometrics data.   
       
+   * **Breaking down the steps in Bayesian phylogenomic dating** *(Nov 2021)*   
+      Talk as part of the seminars organised by Instituto de Ciencias Matmáticas at CSIC.   
+
    * **Phylogenomics course** *(Dec 2021)*   
       Workshop organised by Physalia where I taught the practical sessions of Bayesian inference analyses. See resources [here](https://github.com/sabifo4/BayesianInference_practicals).   
       
@@ -225,8 +231,10 @@ of analysis will be key to understand the compromise between computational time 
 #### *Academic course 2021 - 2022*
    
    * **Teaching fellow: Biochemistry and Molecular Biology**  
-   Module BIOC0001, BSc programme (year 1), University College of London.
+   Modules BIOC0001 and BIOC0004, BSc programme (year 1), University College of London.
    
+   * **Instructor: Molecular Evolution**  
+   Module BIOL0033, MSci programme (year 4), University College of London.   
    
 <br />
 
@@ -245,7 +253,7 @@ of analysis will be key to understand the compromise between computational time 
 # __Society Memberships__
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, and [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/) and website manager since 2021.   
+      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/). Website manager since 2021.   
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
 
@@ -257,4 +265,4 @@ Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evo
 
 ----
 
-Last update: 2021/12/22.
+Last update: 2021/01/06.
