@@ -231,7 +231,10 @@ of analysis will be key to understand the compromise between computational time 
 #### *Academic course 2021 - 2022*
    
    * **Teaching fellow: Biochemistry and Molecular Biology**  
-   Modules BIOC0001 and BIOC0004, BSc programme (year 1), University College of London.
+   Module BIOC0001, BSc programme (year 1), University College of London.   
+   
+   * **Teaching fellow: Introdution to Microbiology**  
+   Module BIOC0004, BSc programme (year 1), University College of London.   
    
    * **Instructor: Molecular Evolution**  
    Module BIOL0033, MSci programme (year 4), University College of London.   
