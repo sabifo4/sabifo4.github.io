@@ -54,10 +54,8 @@ of analysis will be key to understand the compromise between computational time 
    __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br />   
    > The step-by-step tutorial that you can follow to reproduce the results of this study can be found [here](https://github.com/sabifo4/mammals_dating).   
    > In addition, you can see [here](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be) the interview I had at Evolution soup with regards to this research   
-   > on the most precise evolutionary timeline for mammals. You will learn more about each author's contribution, the outline of the research, and   
-   > a bit about my academic career.   
-   > You can check the corresponding press release in [English](https://sruk.org.uk/study-offers-new-insights-into-the-timeline-of-mammal-evolution/)   
-   > and [Spanish](https://sruk.org.uk/es/un-nuevo-estudio-proporciona-nuevas-respuestas-sobre-la-cronologia-evolutiva-de-los-mamiferos/).   
+   > on the most precise evolutionary timeline for mammals. You will learn more about each author's contribution, the outline of the research, and a bit about my academic career.   
+   > You can check the corresponding press release in [English](https://sruk.org.uk/study-offers-new-insights-into-the-timeline-of-mammal-evolution/) and [Spanish](https://sruk.org.uk/es/un-nuevo-estudio-proporciona-nuevas-respuestas-sobre-la-cronologia-evolutiva-de-los-mamiferos/).   
    
 * [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)   
    __Álvarez-Carretero S__ and dos Reis M. (2020) _In_: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
@@ -179,10 +177,8 @@ of analysis will be key to understand the compromise between computational time 
       Part of the organising committee of the CLOE anniversary symposium.   
       
    * **International Day of Women and Girls in Science** *(Jan/Feb 2022)*   
-      Interview with the students at IE Cañada Blanch, where I talked about my career as a computational biologist and answered the students' questions about   
-      how I feel as a woman pursuing a career in science. You can see the videos with my answers to the students' questions   
-      [here](https://www.youtube.com/playlist?list=PLy_Y_fVXS6UxEmAPatrdVrLYzxAzDNNtP).   
-      This was a collaboration between IE Cañada Blanch and the Office for Cultural and Scientific Affairs (Embassy of Spain in London).   
+      Interview with the students at IE Cañada Blanch, where I talked about my career as a computational biologist and answered the students' questions about how I feel as a woman pursuing a career in science. You can see the videos with my answers to the students' questions [here](https://www.youtube.com/playlist?list=PLy_Y_fVXS6UxEmAPatrdVrLYzxAzDNNtP).   
+      This was a collaboration between [IE Cañada Blanch](https://twitter.com/Canada_Blanch) and the [Office for Cultural and Scientific Affairs (Embassy of Spain in London)](https://twitter.com/SpainCultureUK).   
       
 <br />
 
