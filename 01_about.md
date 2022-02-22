@@ -7,7 +7,7 @@ permalink: /about/
 ![image](/assets/figs/sac.jpg){: style="float: right" width="20%"}
 Hi everyone!
 
-I am Sandra Álvarez-Carretero, a computer scientist currently doing my PostDoc at [Ziheng Yang Lab](http://abacus.gene.ucl.ac.uk/) at University College London.
+I am Sandra Álvarez-Carretero, a computational scientist working as a post-doctoral researcher and teaching fellow at [Ziheng Yang Lab](http://abacus.gene.ucl.ac.uk/) at University College London.
 
 
 
@@ -18,32 +18,32 @@ at the wet lab and, little by little, I specialised in computer science:
 <br />
 
 * __BSc in Biochemistry and Molecular Biology__ *([Universidad Rovira I Virgili](http://www.urv.cat/es/estudios/grados/oferta/graudebioquimica/), Spain)*
-: During this 4-year BSc, most of the practicals were wet lab-related. However, it was not until I took the bioinformatics course that I realised how much 
-I enjoyed writing a code to tell a computer to do __"something"__ with my 
-biological data and actually getting __"this something"__ done 
-(what I could not always say after my wet lab practicals...). Thanks to the Erasmus+ programme, I could work on a bioinformatics project at the [University of Manchester](http://www.manchester.ac.uk/),
+: During this 4-year BSc, most of my practical sessions involved wet-lab experiments. Nevertheless, it was not until I took the bioinformatics course part of my BSc that I realised how much 
+I enjoyed coding as I could tell my computer to do __"something"__ with my 
+biological data and I actually got __"this something"__ done 
+(what I could not always say after my wet laboratory practical sessions...). Thanks to the Erasmus+ programme, I could work on a bioinformatics project at the [University of Manchester](http://www.manchester.ac.uk/),
 which was focused on troubleshooting and implementing a pipeline to carry out virtual screenings.
 From then onwards, I was sure that my next steps in science 
 had to integrate two fields: biology and informatics.  
 
 * __MSc in Bioinformatics__ *([Högskolan I Skövde](http://www.his.se/en/#), Sweden)*
-: After finishing the theoretical courses, I carried out my Master's thesis at [Karolinska Institutet](http://ki.se/en/research/centre-for-translational-microbiome-research-ctmr), 
+: After finishing the theoretical courses, I carried out my Master's dissertation at [Karolinska Institutet](http://ki.se/en/research/centre-for-translational-microbiome-research-ctmr), 
 where I developed a pipeline to characterise bacterial isolates based on whole-genome sequencing data
  and other software pipelines to analyse transcriptomic and proteomic data. If you are interested in reading my dissertation, 
- "BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data", it is available for download [here](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253). `BACTpipe` has now been further implemented by the computational research team at the [CTMR](https://ki.se/en/research/centre-for-translational-microbiome-research-ctmr) and is available in [this GitHub repository](https://github.com/ctmrbio/BACTpipe).
+ "BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data", you can download it from [here](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253). `BACTpipe` has now been further implemented by the computational research team at the [CTMR](https://ki.se/en/research/centre-for-translational-microbiome-research-ctmr). You can find the open source code in [this GitHub repository](https://github.com/ctmrbio/BACTpipe).
 
 * __PhD student__ *([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)*
 : Once I finished my MSc, I decided to explore other fields in computer science such as 
-bayesian statistics and modelling where I could learn more about the maths used in this field. 
-I carried out my PhD at [dos Reis Lab](dosreislab.github.io) research group, at Queen Mary University of Lonond,
-working on the application of Bayesian MCMC statistical methods to 
+Bayesian statistics and modelling so I could learn more about how I could merge my computing knowledge with the maths used in these two fields. 
+I carried out my PhD at [dos Reis Lab](https://dosreislab.github.io/people/) research group, at Queen Mary University of London,
+where I worked on the application of Bayesian MCMC statistical methods to 
 study species divergences through time with both molecular and morphological quantitative data.
 
 * __Post-doctoral researcher and Teaching fellow__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*
-: Currently, my main interest is focused on developing and applying new methods to estimate species divergence times with morphological
-quantitative data. I aim to use these new tools in timetree inference when combining large-scale morphological datasets (with both
-extant and fossil species) with phylogenomic data sets. Assessing the mixing and computational limitations of MCMC algorithms in this type 
-of analysis will be key to understand the compromise between computational time and data size.
+: Currently, my main interest is focused on developing and applying new methods to estimate species divergence times with molecular and morphological
+quantitative datasets. I aim to use these tools in Bayesian dating analyses when combining phylogenomic datasets with large-scale 
+morphological datasets (with both extant and fossil species). My ultimate goal is to ensure that all the pipelines and tools that
+I develop as part of the projects I am involved in are well documented, so they can be easily used to reproduce any reported results generated with them.
 
 <br />
 
@@ -177,7 +177,7 @@ of analysis will be key to understand the compromise between computational time 
       Part of the organising committee of the CLOE anniversary symposium.   
    
    * **Interview at Evolution Soup** *(Jan 2022)*   
-      Interview I had at Evolution soup with regards to my research contribution to the study on the most precise evolutionary timeline for mammals. You will learn a little bit more about my academic career, the outline of this research study and how each author contributed to this project, how we can apply Bayesian stats to evolutionary biology studies, and what it feels like working as a computational biologist/bioinformatician in academic research.   
+      Interview I had at Evolution soup with regards to my research contribution to [the study on the most precise evolutionary timeline for mammals](https://rdcu.be/cDHW7). You will learn a little bit more about my academic career, the outline of this research study and how each author contributed to this project, how we can apply Bayesian stats to evolutionary biology studies, and what it feels like working as a computational biologist/bioinformatician in academic research.   
       You can watch the interview [here](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be).   
       
    * **International Day of Women and Girls in Science** *(Jan/Feb 2022)*   
@@ -283,4 +283,4 @@ Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evo
 
 ----
 
-Last update: 2022/02/21.
+Last update: 2022/02/22.
