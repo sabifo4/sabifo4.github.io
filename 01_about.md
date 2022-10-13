@@ -156,6 +156,9 @@ I develop as part of the projects I am involved in are well documented, so they 
    * **Bayesian estimation of species divergence times using GMM data** *(Nov 2020)*   
       Talk at the CLOE Joint Group Meeting organised by UCL.   
       
+   * **VIII International Symposium SRUK/CERU** *(Nov 2020 - Jun 2021)* 
+      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event.   
+
    * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Jun 2021 | Evolution 2021 online conference, talk)*   
       Talk at the Virtual Evolution 2021 conference.   
       
@@ -170,6 +173,9 @@ I develop as part of the projects I am involved in are well documented, so they 
    * **Breaking down the steps in Bayesian phylogenomic dating** *(Nov 2021)*   
       Talk as part of the seminars organised by Instituto de Ciencias Matmáticas at CSIC.   
 
+   * **IX International Symposium SRUK/CERU** *(Nov 2021 - Jul 2022)* 
+      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event.   
+      
    * **Phylogenomics course** *(Dec 2021)*   
       Workshop organised by Physalia where I taught the practical sessions of Bayesian inference analyses. See resources [here](https://github.com/sabifo4/BayesianInference_practicals).   
       
@@ -183,6 +189,25 @@ I develop as part of the projects I am involved in are well documented, so they 
    * **International Day of Women and Girls in Science** *(Jan/Feb 2022)*   
       Interview with the students at IE Cañada Blanch, where I talked about my career as a computational biologist and answered the students' questions about how I feel as a woman pursuing a career in science. You can see the videos with my answers to the students' questions [here](https://www.youtube.com/playlist?list=PLy_Y_fVXS6UxEmAPatrdVrLYzxAzDNNtP).   
       This was a collaboration between [IE Cañada Blanch](https://twitter.com/Canada_Blanch) and the [Office for Cultural and Scientific Affairs (Embassy of Spain in London)](https://twitter.com/SpainCultureUK).   
+      
+   * **Interview at “En Fase Experimental”** *(May 2022)*   
+      Interview as part of a radio podcast in which I talked about the day-to-day of a computational biologist and my research in evolutionary biology as a woman in
+      STEM. You can listen to the podcast [here](https://sruk.org.uk/es/efex64/).   
+      
+   * **_Statistical Modelling_ session at Brunel University** *(May 2022)*   
+      I was an invited speaker at the Brunel Bioinformatics Workshop 2022, where I presented my research in mammal evolution and discussed bioinformatics analyses with
+      a short tutorial. More information about the workshop [here](https://bbw2022.co.uk/speakers).   
+      
+   * **Data, tools and applications: Creating a pipeline from Omics to AI** *(May 2022)*   
+      I was an invited speaker at the the Alan Turing Institute to discuss my research in mammal evolution as well as the challenges to use AI when using phylogenomics
+      datasets.   
+      
+   * **Silwood Ecology and Evolution Seminar** *(Jun 2022)*   
+      I was an invited speaker at the the Silwood Ecology and Evolution Seminar, where I talked about how to carry out Bayesian dating analyses with a short demo and
+      included an example with my research in mammal evolution.   
+      
+   * **Inferring species level timelines with phylogenomic data: A Bayesian sequential subtree approach** *(Jun and Aug 2022 | Evolution 2022 and ESEB 2022, talks)*   
+      Virtual talk at the Evolution 2021 conference and in-person talk at the ESEB conference.   
       
 <br />
 
@@ -215,10 +240,10 @@ I develop as part of the projects I am involved in are well documented, so they 
      
 #### *Academic course 2018 - 2019*
    
-   * **Demonstrator (TA): Stats & R**  
+   * **Demonstrator (TA): Stats & R**   
    Module BIO309, Undergraduate level (year 3), Queen Mary University of London.
    
-   * **Demonstrator (TA): Practical laboratories and Seminars**  
+   * **Demonstrator (TA): Practical laboratories and Seminars**   
    Modules SEF033, Foundation level, Queen Mary University of London.   
    
    * **Teaching Assistant (TA): Computational Molecular Evolution course**   
@@ -245,14 +270,30 @@ I develop as part of the projects I am involved in are well documented, so they 
    * **Teaching fellow: Biochemistry and Molecular Biology**  
    Module BIOC0001, BSc programme (year 1), University College of London.   
    
-   * **Teaching fellow: Introdution to Microbiology**  
-   Module BIOC0004, BSc programme (year 1), University College of London.   
+   * **Teaching fellow: Basics for Molecular Biosciences**  
+   Module BIOC0002, BSc programme (year 1), University College of London.   
    
-   * **Instructor: Molecular Evolution**  
+   * **Teaching fellow: Introdution to Microbiology**  
+   Module BIOC0004, BSc programme (year 1), University College of London.  
+   
+   * **Teaching fellow: Biochemistry and Molecular Biology**  
+   Module BIOC0005, BSc programme (year 1), University College of London.  
+   
+   * **Teaching fellow: Advanced Investigative projects in molecular biosciences**  
+   Module BIOC0021, BSc programme (year 3), University College of London.   
+ 
+   * **Teaching fellow: MSci Biochemistry Year 4**  
+   Modules BIOC0024/BIOC0025/BIOC0026, MSci programme (year 4), University College of London.   
+   
+   * **Instructor: Molecular Evolution**   
    Module BIOL0033, MSci programme (year 4), University College of London.   
    
-   * **Instructor: Bayesian statistics**  
+   * **Instructor: Bayesian statistics**   
    Masters in Computational Methods in Ecology and Evolution, Imperial College London.   
+   
+   * **Teaching Assistant (TA): Computational Molecular Evolution course**   
+   Providing support to the participants which ranged from software installation and usage to the theoretical background of using these bioinformatics tools to study
+   molecular evolution.
    
 <br />
 
@@ -271,7 +312,7 @@ I develop as part of the projects I am involved in are well documented, so they 
 # __Society Memberships__
 
    * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
-      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/). Website manager since 2021.   
+      Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, and current [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/). SRUK/CERU Website manager since 2021.   
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
 
@@ -279,8 +320,8 @@ I develop as part of the projects I am involved in are well documented, so they 
 
 # __Peer-review__
 
-Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, _Cambridge Elements STM3_, _Nature Ecology and Evolution_, _Paleobiology_, _Proceedings of the Royal Society B_, _Nature Communications_, _Communications Biology_, and _Bioinformatics Advances_.
+Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, _Cambridge Elements STM3_, _Nature Ecology and Evolution_, _Paleobiology_, _Proceedings of the Royal Society B_, _Nature Communications_, _Communications Biology_, and _Bioinformatics Advances_, _Nature_, _Genome Biology and Evolution_.
 
 ----
 
-Last update: 2022/02/22.
+Last update: 2022/10/13.
