@@ -129,13 +129,13 @@ I develop as part of the projects I am involved in are well documented, so they 
       Event sponsored by the SRUK/CERU society that I co-organized with Dr. Diego Alonso.   
      
    * **Introduction to R** *(May 2019 | Computational Molecular Evolution course)*  
-      One-morning session about programming in R that I organized during the Computational Molecular Evolution course in Hinxton.
+      One-morning session about programming in R that I organized during the Computational Molecular Evolution course in Hinxton.   
       
    * **Back to present: Understanding evolution** *(Jun 2018)*  
-      Activity that I prepared for the Science Zone as part of the VII International Symposium SRUK/CERU in Liverpool. 
+      Activity that I prepared for the Science Zone as part of the VII International Symposium SRUK/CERU in Liverpool.   
 
    * **Bayesian estimation of species divergence times using correlated quantitative characters** *(June 2019 | Evolution 2019 meeting, awards talk)*  
-      Talk at the Evolution 2019 meeting, with which I was granted the [**Ernst Mayr award**](https://www.systbio.org/ernst-mayr-award.html).
+      Talk at the Evolution 2019 meeting, with which I was granted the [**Ernst Mayr award**](https://www.systbio.org/ernst-mayr-award.html).   
       
 #### *Academic course 2019/2020* 
 
@@ -157,7 +157,7 @@ I develop as part of the projects I am involved in are well documented, so they 
       Talk at the CLOE Joint Group Meeting organised by UCL.   
       
    * **VIII International Symposium SRUK/CERU** *(Nov 2020 - Jun 2021)* 
-      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event.   
+      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event. See website [here](https://sruk2021.wordpress.com/).   
 
    * **Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach** *(Jun 2021 | Evolution 2021 online conference, talk)*   
       Talk at the Virtual Evolution 2021 conference.   
@@ -174,13 +174,13 @@ I develop as part of the projects I am involved in are well documented, so they 
       Talk as part of the seminars organised by Instituto de Ciencias Matmáticas at CSIC.   
 
    * **IX International Symposium SRUK/CERU** *(Nov 2021 - Jul 2022)* 
-      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event.   
+      I was part of the organising committee of the symposium. My main task during these months was to develop and maintain the website to keep up with the latest updates regarding the event. See website [here](https://sruk2022.com/).   
       
    * **Phylogenomics course** *(Dec 2021)*   
       Workshop organised by Physalia where I taught the practical sessions of Bayesian inference analyses. See resources [here](https://github.com/sabifo4/BayesianInference_practicals).   
       
    * **CLOE Winter Quarterly Symposium** *(Dec 2021)*   
-      Part of the organising committee of the CLOE anniversary symposium.   
+      Part of the organising committee of the CLOE anniversary symposium. More information about this CLOE symposium and other symposia [here](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-lifes-origins-and-evolution).   
    
    * **Interview at Evolution Soup** *(Jan 2022)*   
       Interview I had at Evolution soup with regards to my research contribution to [the study on the most precise evolutionary timeline for mammals](https://rdcu.be/cDHW7). You will learn a little bit more about my academic career, the outline of this research study and how each author contributed to this project, how we can apply Bayesian stats to evolutionary biology studies, and what it feels like working as a computational biologist/bioinformatician in academic research.   
@@ -203,8 +203,8 @@ I develop as part of the projects I am involved in are well documented, so they 
       datasets.   
       
    * **Silwood Ecology and Evolution Seminar** *(Jun 2022)*   
-      I was an invited speaker at the the Silwood Ecology and Evolution Seminar, where I talked about how to carry out Bayesian dating analyses with a short demo and
-      included an example with my research in mammal evolution.   
+      I was an invited speaker at the Silwood Ecology and Evolution Seminar in June, where I talked about how to carry out Bayesian clock-dating analyses with a short
+      demo and included an example with how to apply this analysis to my research in mammal evolution.   
       
    * **Inferring species level timelines with phylogenomic data: A Bayesian sequential subtree approach** *(Jun and Aug 2022 | Evolution 2022 and ESEB 2022, talks)*   
       Virtual talk at the Evolution 2021 conference and in-person talk at the ESEB conference.   
@@ -311,7 +311,7 @@ I develop as part of the projects I am involved in are well documented, so they 
 
 # __Society Memberships__
 
-   * **SRUK/CERU** - Society of Spanish Researchers in the UK  *(Nov 2017 - Present)*   
+   * **SRUK/CERU** - Society of Spanish Researchers in the UK *(Nov 2017 - Present)*   
       Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, and current [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/). SRUK/CERU Website manager since 2021.   
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
