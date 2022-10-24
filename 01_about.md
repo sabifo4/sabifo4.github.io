@@ -315,13 +315,14 @@ I develop as part of the projects I am involved in are well documented, so they 
       Member of the SRUK/CERU London working group since 2017 and former secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/) (2019-2021). Member of the Press Department since 2018, [**co-editor-in-chief of the SRUK/CERU blog**](https://sruk.org.uk/teams/blog-committee/) since 2019, and current [**director of the Press department**](https://sruk.org.uk/teams/press-department-backstage/). SRUK/CERU Website manager since 2021.   
    * **SSB** – Society of Systematic Biologists *(Jan 2018 - Present)*
    * **SSE** – Society for the Study of Evolution *(Feb 2019 - Present)* 
+   * **ESEB** – European Society of Evolutionary Biology *(May 2022 - Present)* 
 
 <br />
 
 # __Peer-review__
 
-Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, _Cambridge Elements STM3_, _Nature Ecology and Evolution_, _Paleobiology_, _Proceedings of the Royal Society B_, _Nature Communications_, _Communications Biology_, and _Bioinformatics Advances_, _Nature_, _Genome Biology and Evolution_.
+Reviewer for _Systematic Biology_, _Bioinformatics_, _Methods in Ecology and Evolution_, _Evolution_, _Cambridge Elements STM3_, _Nature Ecology and Evolution_, _Paleobiology_, _Proceedings of the Royal Society B_, _Nature Communications_, _Communications Biology_, and _Bioinformatics Advances_, _Nature_, _Palaeontology_, _Genome Biology and Evolution_.
 
 ----
 
-Last update: 2022/10/13.
+Last update: 2022/10/24.
