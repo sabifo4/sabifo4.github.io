@@ -17,10 +17,12 @@ title: Bridging computer science, statistics, and biology
 author: Sandra Álvarez-Carretero
 email: s.alvarez-carretero@ucl.ac.uk
 description: Postdoctoral researcher at UCL
-description2: Evolutionary biology, bayesian statistics, and biopipelines!
+description2: Evolutionary biology, Bayesian statistics, and biopipelines!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""     # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sabifo4
+mastodon_username: sabifo4
+mastodon_icon: fab fa-mastodon
 github_username:  sabifo4
 # Build settings
 markdown: kramdown
