@@ -8,7 +8,7 @@ permalink: /contact/
 
 You can reach me via email at [s.alvarez-carretero@ucl.ac.uk](mailto://s.alvarez-carretero@ucl.ac.uk).
 
-Please send me a message if you want to arrange an in-person meeting.When in London, you can also find me either at the Medawar building or at the Darwin building at the following address:
+Please send me a message if you want to arrange an in-person meeting. When in London, you can find me either at the Medawar building or at the Darwin building at the following address:
 
 Division of Biosciences, GEE Deparment<br>
 University College London<br>
