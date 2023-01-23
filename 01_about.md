@@ -6,10 +6,10 @@ permalink: /about/
 
 ## __Education and Experience__
 
-* __BSc in Biochemistry and Molecular Biology__ *([Universidad Rovira I Virgili](http://www.urv.cat/es/estudios/grados/oferta/graudebioquimica/), Spain)*<br>During these 4 years as an undergaduate, most of my practical sessions involved wet-lab experiments. Nevertheless, it was not until I took the bioinformatics course when I realised how much I enjoyed coding: if I properly told a computer to do <i>"something"</i> with my biological data, I actually got <i>"this something"</i> done (what I could not always say after my wet-lab practical sessions). Thanks to the Erasmus+ programme, I could work on a bioinformatics project at the [University of Manchester](http://www.manchester.ac.uk/), which was focused on troubleshooting and implementing a pipeline to carry out virtual screenings. From then onwards, I knew that my academic career had to integrate two fields: biology and informatics.
-* __MSc in Bioinformatics__ *([Högskolan I Skövde](http://www.his.se/en/#), Sweden)*<br>After finishing the theoretical courses, I carried out my Master's dissertation at [Karolinska Institutet](http://ki.se/en/research/centre-for-translational-microbiome-research-ctmr), where I developed a pipeline to characterise bacterial isolates based on whole-genome sequencing data and other software pipelines to analyse transcriptomic and proteomic data. My dissertation ["BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data" can be downloaded from free on the DIVA portal](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253). `BACTpipe` has now been further developed and implemented with new features by the computational research team at the [CTMR](https://ki.se/en/research/centre-for-translational-microbiome-research-ctmr). The [open source code is available in the `BACTpipe` GitHub repository](https://github.com/ctmrbio/BACTpipe).
-* __PhD in Computational Biology__ *([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)*<br>Once I completed my MSc studies, I wanted to explore other fields in computational biology such as Bayesian statistics and modelling as I was keen on integrating a more mathematical background with my computational skills at that moment. To achieve this, I started my PhD at the [dos Reis Lab group](https://dosreislab.github.io/people/), at Queen Mary University of London, where I worked on the application of Bayesian MCMC statistical methods to study species divergences through time with both molecular and morphological quantitative data.
-* __Postdoctoral researcher__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*<br>Currently, my main interest is focused on developing and applying new methods and pipelines to study evolutionary processes. I have been working on analyses for detecting positive selection and continuing to expand my research on Bayesian timetree inference with molecular and morphological datasets (with both extant and fossil species). My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible. During the academic year 2021-22, I was also a <b>teaching fellow</b> at UCL as part of a secondment, period during which I had the opportunity to further develop my teaching skills.
+* __BSc in Biochemistry and Molecular Biology__ *([University Rovira I Virgili](http://www.urv.cat/es/estudios/grados/oferta/graudebioquimica/), Spain)*<br>During these 4 years as an undergaduate, most of my practical sessions involved wet-lab experiments. Nevertheless, it was not until I took the bioinformatics course when I realised how much I enjoyed coding: if I properly told a computer to do <i>"something"</i> with my biological data, I actually got <i>"this something"</i> done (what I could not always say after my wet-lab practical sessions). Thanks to the Erasmus+ programme, I could work on a bioinformatics project at the [University of Manchester](http://www.manchester.ac.uk/), which was focused on troubleshooting and implementing a pipeline to carry out virtual screenings. From then onwards, I knew that my academic career had to integrate two fields: biology and informatics.
+* __MSc in Bioinformatics__ *([Högskolan I Skövde](http://www.his.se/en/#), Sweden)*<br>After finishing the theoretical courses, I carried out my Master's dissertation at [Karolinska Institutet](http://ki.se/en/research/centre-for-translational-microbiome-research-ctmr), where I developed a pipeline to characterise bacterial isolates based on whole-genome sequencing data and other software pipelines to analyse transcriptomic and proteomic data. My dissertation ["BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data" can be accessed on the DIVA portal (free download)](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253). Since I finished my MSc research project, the computational research team at the [CTMR](https://ki.se/en/research/centre-for-translational-microbiome-research-ctmr) has been implementing new features in `BACTpipe`. The [current open source code is available as part of the `BACTpipe` GitHub repository](https://github.com/ctmrbio/BACTpipe).
+* __PhD in Computational Biology__ *([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)*<br>Once I completed my MSc studies, I wanted to explore other fields in computational biology such as Bayesian statistics and modelling as I was keen on integrating a more mathematical background with my computational skills at that moment. To achieve this, I started my PhD at the [dos Reis Lab](https://dosreislab.github.io/people/), at Queen Mary University of London, where I worked on the application of Bayesian MCMC statistical methods to study species divergences through time with both molecular and morphological quantitative data.
+* __Postdoctoral researcher__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*<br>Currently, my main interest is focused on developing and applying new methods and pipelines to study evolutionary processes. I have been working on analyses for detecting positive selection and continuing my research on Bayesian timetree inference with molecular and morphological datasets (with both extant and fossil species). My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible. During the academic year 2021-22, I was also a <b>teaching fellow</b> at UCL as part of a secondment, period during which I had the opportunity to further develop my teaching skills.
 
 <br>
 
@@ -18,7 +18,7 @@ permalink: /about/
 * [A Species-Level Timeline of Mammal Evolution Integrating Phylogenomic Data](https://rdcu.be/cDHW7)<br>
 __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
   - [Step-by-step tutorial to reproduce the results of this study](https://github.com/sabifo4/mammals_dating).
-  - [Interview I had at the YouTube channel "Evolution soup" with regards to this research](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be). By watching this video, you can learn more about the most precise evolutionary timeline for mammals, each author's contribution, the outline and main outcome of this research, and a little bit more about my academic career.
+  - [Interview I had at the YouTube channel "Evolution soup" with regards to this research](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be). By watching this video, you can learn more about the most precise estimated evolutionary timeline for mammals, each author's contribution, the outline and main outcome of this research, and a little bit more about my academic career.
   - [Press release in English](https://sruk.org.uk/study-offers-new-insights-into-the-timeline-of-mammal-evolution/).
   - [Press release in Spanish](https://sruk.org.uk/es/un-nuevo-estudio-proporciona-nuevas-respuestas-sobre-la-cronologia-evolutiva-de-los-mamiferos/).
 <spacer></spacer>
@@ -62,11 +62,11 @@ Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systema
 
 ## __Awards and Scholarships__
 
-* [USyD-UCL Partnership Collaboration Awards (PCA)](https://www.sydney.edu.au/research/research-funding/research-fellowships.html)<br>
+* [**USyD-UCL Partnership Collaboration Awards (PCA)**](https://www.sydney.edu.au/research/research-funding/research-fellowships.html)<br>
 Application to fund the project “Reconstructing the evolutionary timescale of the Tree of Life” together with Prof Simon Ho. Awarded by the University of Sydney in 2022.
 * [**Ernst Mayr Award**](https://www.systbio.org/ernst-mayr-award.html), awarded by the Society of Systematic Biologists.
 * [**National awards after University degree completion during the 2014-15 academic course**](http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998341/ficha/998341-2014-2015.html), awarded by Ministerio de Educación, Cultura y Deporte.<br>(Original award name: _Premios Nacionales de Fin de Carrera de Educación Universitaria para el curso académico 2014-2015_)   
-* [**Student excellence award for the BSc in Biochemistry and Molecular Biology**](https://seuelectronica.urv.cat/media/upload/pdf//cg_20160225_punt71_premis_ext_grau_mast_corrsl_pend_sig_editora_4_1_2128.pdf), awarded by Universitat Rovira I Virgili.<br>(Original award name: _Premi Extraordinari de Final d’Estudis del grau de Bioquímica I Biologia Molecular_)
+* [**Student excellence award for the BSc in Biochemistry and Molecular Biology**](https://seuelectronica.urv.cat/media/upload/pdf//cg_20160225_punt71_premis_ext_grau_mast_corrsl_pend_sig_editora_4_1_2128.pdf), awarded by University Rovira I Virgili.<br>(Original award name: _Premi Extraordinari de Final d’Estudis del grau de Bioquímica I Biologia Molecular_)
 * [**Scholarship for research funding during the academic course 2014-15**](https://www.boe.es/boe/dias/2015/01/27/pdfs/BOE-A-2015-700.pdf), awarded by Ministerio de Educación, Cultura y Deporte in 2014.<br>(Original award name: _Becas de Colaboración 2014-15_)    
 
 <br>
@@ -74,6 +74,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 ## __Teaching__
 
 ### Instructor
+- <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 - <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
 - <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, [material and content available on GitHub](https://github.com/sabifo4/BayesianInference_practicals)</i>
 - <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21 – 2021/22).</i>
@@ -121,7 +122,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 - <b>Seminar at the Instituto de Ciencias Matemáticas, Consejo Superior de Investigaciones Científicas</b> <i>(Nov 2021) – Invited talk (virtual).</i>
 - <b>Seminar at the Palaebiology Research group, University of Bristol</b> <i>(Jun 2021) – Invited talk (virtual).</i>
 - <b>Graduate Phylogenomics seminar, Michigan State University</b> <i>(Feb 2021) – Invited talk (virtual).</i>
-- <b>CLOE Joint Group Meeting</b>, University College London <i>(Nov 2020) – Invited talk (virtual).</i>
+- <b>CLOE Joint Group Meeting, University College London</b> <i>(Nov 2020) – Invited talk (virtual).</i>
 - <b>Back to present: Understanding evolution</b> <i>(Jun 2018 & Jun 2019) – Scientific activity for children presented during the V and VI SRUK/CERU International Symposia.</i>
 
 <br>
@@ -147,7 +148,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 - <b>Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach</b> <i> (Nov 2019) – Poster presentation at the Young Systematists’ Forum meeting.</i>
 - <b>Bayesian estimation of species divergence times using correlated quantitative characters</b> <i> (Jun 2019) – [Talk at the Evolution meeting awarded with the Ernst Mayr Award](https://www.systbio.org/ernst-mayr-award.html).</i>
 - <b>Bayesian estimation of species divergence times using correlated quantitative characters</b> <i>(Nov 2018) – Talk at the Young Systematists’ Forum meeting.</i>
-- <b>Comparison of relaxed-clock models using the Bayesian model selection implemented in MCMCtree</b> <i>(Aug 2018) – Poster presentation at the Evolution meeting, available at the [dos Reis lab](https://dosreislab.github.io/2018/08/22/evolution2018.html).</i>
+- <b>Comparison of relaxed-clock models using the Bayesian model selection implemented in MCMCtree</b> <i>(Aug 2018) – Poster presentation at the Evolution meeting, available at the [dos Reis Lab website](https://dosreislab.github.io/2018/08/22/evolution2018.html).</i>
 - <b>Bayesian estimation of species divergence times using quantitative characters</b> <i>(Apr 2018) – Talk at Phylogroup XI meeting.</i> 
 
 <br>
@@ -178,4 +179,5 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2023/01/19.
+Last update: 2023/01/23.
+
