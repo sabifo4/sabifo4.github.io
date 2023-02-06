@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Bridging computer science, statistics, and biology
 author: Sandra Álvarez-Carretero
-email: s.alvarez-carretero@ucl.ac.uk
-description: Postdoctoral researcher at UCL
+email: s.alvarez-carretero@bristol.ac.uk
+description: Postdoctoral researcher at UoB
 description2: Evolutionary biology, Bayesian statistics, and biopipelines!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""     # the base hostname & protocol for your site, e.g. http://example.com
