@@ -2,16 +2,16 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading"><b>{{ site.title | escape }}</b></h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              {{ site.author | escape }}
+            <b>{{ site.author | escape }}</b>
             {% else %}
-              {{ site.title | escape }}
+            <b>{{ site.title | escape }}</b>
             {% endif %}
             </li>
             {% if site.email %}
@@ -27,22 +27,23 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            <b>{% include icon-github.html username=site.github_username %}</b>
           </li>
           {% endif %}
 
           {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <b>{% include icon-twitter.html username=site.twitter_username %}</b>
           </li>
           {% endif %}
 
           {% if site.mastodon_username %}
           <li>
-            {% include icon-mastodon.html username=site.mastodon_username %}
+            <b>{% include icon-mastodon.html username=site.mastodon_username %}</b>
           </li>
           {% endif %}
 		  
+      <!-- Commented by SAC: LinkedIn not included at the moment
 		  {% if site.linkedin_username %}
 		  <li>
 			{% include icon-linkedin.html username=site.linkedin_username %}
@@ -50,6 +51,7 @@
 			{{ site.linkedin_username | escape }}
 		  </li>
 		  {% endif %}
+      -->
         </ul>
       </div>
 
@@ -57,12 +59,12 @@
 	   <ul style="list-style-type:none">
 	     <li>
 		   {% if site.description %}
-              {{ site.description | escape }}
+              <b>{{ site.description | escape }}</b>
            {% endif %}
 		 </li>
 		 <li>
 		   {% if site.description2 %}
-              {{ site.description2 | escape }}
+              <i>{{ site.description2 | escape }}</i>
            {% endif %}
 		 </li>
         </ul>
