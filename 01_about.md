@@ -29,7 +29,7 @@ __Álvarez-Carretero S__<sup>*</sup>, Kapli P<sup>*</sup>, Yang Z (2023). Mol Bi
 <spacer></spacer>
 
 * [A species-level timeline of mammal evolution integrating phylogenomic data](https://rdcu.be/cDHW7)<br>
-__Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
+__Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2022) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
   * [Step-by-step tutorial to reproduce the results of this study](https://github.com/sabifo4/mammals_dating).
   * [Interview I had at the YouTube channel "Evolution soup" with regards to this research](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be). By watching this video, you can learn more about the most precise estimated evolutionary timeline for mammals, each author's contribution, the outline and main outcome of this research, and a little bit more about my academic career.
   * [Press release in English](https://sruk.org.uk/study-offers-new-insights-into-the-timeline-of-mammal-evolution/).
@@ -38,7 +38,7 @@ __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2021) Natur
 <spacer></spacer>
 
 * [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)<br>
-__Álvarez-Carretero S__ and dos Reis M. (2020) *In*: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
+__Álvarez-Carretero S__ and dos Reis M. (2021) *In*: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
 <spacer></spacer>
 
 * [Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)<br>
@@ -46,7 +46,7 @@ Perri Angela R<sup>*</sup>, Mitchell Kieren J<sup>*</sup>, Mouton Alice<sup>*</s
 <spacer></spacer>
 
 * [Phylogenomic resolution of the Cetacean Tree of Life using target sequence capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)<br>
-McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2019) Systematic Biology.
+McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2020) Systematic Biology.
 <spacer></spacer>
 
 * [Identification of functional and druggable sites in _Aspergillus fumigatus_ essential phosphatases by virtual screening](https://www.mdpi.com/1422-0067/20/18/4636/htm)<br>
@@ -61,7 +61,7 @@ __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biolo
 
 <spacer></spacer>
 
-* [The bile salt glycocholate induces global changes in gene and protein expression and activates virulence in enterotoxigenic Escherichia coli](http://www.mdpi.com/1420-3049/23/2/353)<br>
+* [The bile salt glycocholate induces global changes in gene and protein expression and activates virulence in enterotoxigenic Escherichia coli](https://www.nature.com/articles/s41598-018-36414-z)<br>
 Joffre E, Nicklasson M, __Álvarez-Carretero S__, Xiao X, Sun L, Nookaew I, Zhu B, Sjöling Å. (2019) Scientific Reports.
 <spacer></spacer>
 
@@ -72,7 +72,7 @@ __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (
 <spacer></spacer>
 
 * [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)<br>
-Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2017) Systematic Biology.
+Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2018) Systematic Biology.
 
 <br>
 
@@ -94,7 +94,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 * <b>Computational Molecular Evolution course</b> <i>(May 2023).</i>
 * <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
-* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021 & Dec 2023 (upcoming). [Material and content of the practical sessions available on GitHub](https://github.com/sabifo4/BayesianInference_practicals))</i>
+* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021 & Dec 2023 (upcoming). [Material and content of the practical sessions available on GitHub](https://github.com/sabifo4/BayesianInference_practicals)).</i>
 * <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21 – 2021/22).</i>
 * <b>Research Computing Workshop – R, Bash, and Python</b> <i>(Feb & Jun 2020, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). Material and content available on GitHub for [the R and Bash workshop](https://github.com/sabifo4/RnBash) and for the [Phyton workshop](https://github.com/dalonsoa/SRUK_Python_course)).</i>
 * <b>A practical introduction to R and Python for researchers</b> <i>(Apr 2018 & Mar 2019, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). [Material and content available on GitHub](https://github.com/sabifo4/II_SRUK_Scientific_Computing)).</i>
@@ -112,7 +112,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 ### Supervision and Research Guidance
 
 * <b>MSci project</b> <i>(2020/21) – Co-supervising Léa Cavalli’s research project with Prof Ziheng Yang | Dissertation: "A simulation study to explore the time-dependent rates effect in viral evolution".</i>
-* **NOTE**: Since 2017, I have been giving personalised guidance to students and members of staff on a request basis when running computational analyses, specially to troubleshoot and fix code as well as to help run phylogenetic software (e.g., `raxml-ng`, `MCMCtree`, `CODEML`, `BPP`, etc.). Most of these meetings have led to creating protocols that users can easily customise to fit their datasets while, at the same time, they can run various analysis in a reproducible manner.
+* **Additional supervision and/or research guidance**: Since 2017, I have been providing guidance to students and members of staff on a request basis about how to run and/or improve their computational analyses, specially troubleshooting and fixing code as well as providing them with help to run phylogenetic software (e.g., `raxml-ng`, `MCMCtree`, `CODEML`, `BPP`, etc.). Most of this research guidance has led me to develop new protocols that users can easily customise to fit their datasets while, at the same time, they can run various analysis in a reproducible manner.
 
 ### Teaching Assistant
 
@@ -210,4 +210,4 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2023/04/25.
+Last update: 2023/05/05.
