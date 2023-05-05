@@ -1,7 +1,7 @@
 /**
  * Site header
  */
-.site-header {
+ .site-header {
   border-top: 3px solid #f2f2f2;
   border-bottom: 1px solid #cccccc;
   min-height: $spacing-unit * 1.865;
@@ -33,18 +33,7 @@
   }
 
   .menu-icon {
-    /* display: none; */
-    /* SAC 220505 */
-    float: right;
-    width: 36px;
-    height: 26px;
-    line-height: 0;
-    padding-top: 10px;
-    text-align: center;
-
-    > svg path {
-      fill: $border-color-03;
-    }
+    display: none;
 	/* Modify this when I want to add the three bars to display menu */
   }
 
