@@ -91,10 +91,11 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Instructor
 
+* <b>Phylogenomics and Population Genomics Advanced Course</b> [University of Barcelona] <i>(Jul 2023. [Resources for the "Molecular dating" session I taught are available on my GitHub account](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
 * <b>Computational Molecular Evolution course</b> <i>(May 2023).</i>
 * <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
-* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021 & Dec 2023 (upcoming). [Material and content of the practical sessions available on GitHub](https://github.com/sabifo4/BayesianInference_practicals)).</i>
+* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021 & Dec 2023 (upcoming). [Resources for the practical sessions I taught are available on my GitHub account](https://github.com/sabifo4/BayesianInference_practicals)).</i>
 * <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21 – 2021/22).</i>
 * <b>Research Computing Workshop – R, Bash, and Python</b> <i>(Feb & Jun 2020, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). Material and content available on GitHub for [the R and Bash workshop](https://github.com/sabifo4/RnBash) and for the [Phyton workshop](https://github.com/dalonsoa/SRUK_Python_course)).</i>
 * <b>A practical introduction to R and Python for researchers</b> <i>(Apr 2018 & Mar 2019, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). [Material and content available on GitHub](https://github.com/sabifo4/II_SRUK_Scientific_Computing)).</i>
@@ -116,7 +117,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Teaching Assistant
 
-* <b>Computational Molecular Evolution course</b> <i>(May 2018, May 2019 & July 2022).</i>
+* <b>Computational Molecular Evolution course</b> <i>(May 2018, May 2019 & Jul 2022).</i>
 
 ### Demonstrator
 
@@ -133,13 +134,13 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Invited Talks and Science Communication <i>(outreach)</i>__
 
-* <b>XXIII International Congress of Genetics</b> <i>(scheduled for July 2023) – Invited talk at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
+* <b>XXIII International Congress of Genetics</b> <i>(Jul 2023) – Invited talk at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
 * <b>Native Schools workshop</b> <i>(Nov 2022) – Scientific activity sponsored by Native Scientist aimed at promoting science and language among school pupils.</i>
-* <b>Silwood Ecology and Evolution Seminar, Imperial College London</b> <i>(June 2022) – Invited talk (virtual).</i>
+* <b>Silwood Ecology and Evolution Seminar, Imperial College London</b> <i>(Jun 2022) – Invited talk (virtual).</i>
 * <b>“Data, tools and applications: Creating a pipeline from Omics to AI” meeting, Alan Turing Institute</b> <i>(May 2022) – Invited talk.</i>
 * <b>Brunel Bioinformatics Workshop 2022</b> <i>(May 2022) – Invited talk at the [“Statistical Modelling” session of the workshop](https://bbw2022.co.uk/speakers).</i>
 * <b>Interview at “En Fase Experimental” radio podcast</b> <i>(May 2022) – Interview about the day-to-day of a computational biologist and my research in evolutionary biology (virtual). [You can listen to this podcast episode on the SRUK/CERU website](https://sruk.org.uk/es/efex64/)</i>
-* <b>Seminar on Phylogenomics analyses with MCMCtree, University of Oklahoma</b> <i>(April 2022) – Invited talk (virtual).</i>
+* <b>Seminar on Phylogenomics analyses with MCMCtree, University of Oklahoma</b> <i>(Apr 2022) – Invited talk (virtual).</i>
 * <b>Interview by the students at IE Cañada Blanch for the International Day of Women and Girls in Science</b> <i>(Feb 2022) – Interview about my research and how it feels to pursue a career as a woman in STEM. You can see the videos with my answers to the students' questions [on YouTube](https://www.youtube.com/playlist?list=PLy_Y_fVXS6UxEmAPatrdVrLYzxAzDNNtP). This event was a collaboration between [IE Cañada Blanch](https://twitter.com/Canada_Blanch) and the [Office for Cultural and Scientific Affairs (Embassy of Spain in London)](https://twitter.com/SpainCultureUK).</i>
 * <b>Interview at “Evolution Soup” YouTube channel</b> <i>(Jan 2022) – Interview about my research on mammals’ evolution and my academic career [available to watch on YouTube](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be) (virtual).</i>
 * <b>Seminar at the Instituto de Ciencias Matemáticas, Consejo Superior de Investigaciones Científicas</b> <i>(Nov 2021) – Invited talk (virtual).</i>
@@ -152,11 +153,11 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Events Organisation and Participation__
 
-* <b>XXIII International Congress of Genetics</b> <i>(Nov 2022 – Present) – Co-convenor at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
-* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Present) – Member of the organising committee ([website development and management](https://srukceru2023.com/)).</i>
+* <b>XXIII International Congress of Genetics</b> <i>(Nov 2022 – Jul 2023) – Co-convenor at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
+* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://srukceru2023.com/)).</i>
 * <b>CLOE Winter Quarterly Symposium</b> <i>(Oct – Dec 2021) – Member of the organising committee of the CLOE anniversary symposium. You can find [more information about this event and the invited speakers at the CLOE website](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-lifes-origins-and-evolution)</i>
 * <b>IX SRUK/CERU International Symposium</b> <i>(Nov 2021 – Jun 2022) – Member of the organising committee ([website development and management](https://sruk2022.com/)).</i>
-* <b>SSB Awards Committee</b> <i>(June 2021) – Member of the judging panel for the talks presented at the SSB Excellence Symposium.</i>
+* <b>SSB Awards Committee</b> <i>(Jun 2021) – Member of the judging panel for the talks presented at the SSB Excellence Symposium.</i>
 * <b>VIII SRUK/CERU International Symposium (virtual)</b> <i>(Nov 2020 – Jun 2021) – Member of the organising committee ([website development and management](https://sruk2021.wordpress.com/)).</i>
 * <b>VII SRUK/CERU International Symposium</b> <i>(Nov 2018 – Jun 2019) – Member of the organising committee ([website development and management](https://sruk2019.wordpress.com/)).</i>
 * <b>VI SRUK/CERU International Symposium</b> <i>(Mar – May 2018) – Member of the organising committee ([website development and management](https://sruk2018symposium.wordpress.com/)).</i>
@@ -210,4 +211,4 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2023/05/05.
+Last update: 2023/07/30.
