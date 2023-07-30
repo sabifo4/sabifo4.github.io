@@ -42,6 +42,12 @@
             <b>{% include icon-mastodon.html username=site.mastodon_username %}</b>
           </li>
           {% endif %}
+
+          {% if site.linktree_username %}
+          <li>
+            <b>{% include icon-linktree.html username=site.linktree_username %}</b>
+          </li>
+          {% endif %}
 		  
       <!-- Commented by SAC: LinkedIn not included at the moment
 		  {% if site.linkedin_username %}
