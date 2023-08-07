@@ -21,14 +21,14 @@ permalink: /about/
 
 ## __Publications__
 
-* [Beginner’s guide on the use of PAML to detect positive selection](https://doi.org/10.1093/molbev/msad041)<br>
+* [__Beginner’s guide on the use of PAML to detect positive selection__](https://doi.org/10.1093/molbev/msad041)<br>
 __Álvarez-Carretero S__<sup>*</sup>, Kapli P<sup>*</sup>, Yang Z (2023). Mol Biol Evol.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
   * [GitHub repository with data, code, and step-by-step guidelines for reproducing the results of the analyses described in the `CODEML` protocol](https://github.com/abacus-gene/paml-tutorial/tree/main/positive-selection).
   * [Supplementary material where we discuss (i) analyses and checks you should carry out before running tests of positive selection with CODEML, (ii) gene tree VS species tree, and (iii) the usage of rooted and unrooted trees](http://abacus.gene.ucl.ac.uk/ziheng/pdf/2023Alvarez-Carretero-codeml-SI.pdf).
   
 <spacer></spacer>
 
-* [A species-level timeline of mammal evolution integrating phylogenomic data](https://rdcu.be/cDHW7)<br>
+* [__A species-level timeline of mammal evolution integrating phylogenomic data__](https://rdcu.be/cDHW7)<br>
 __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2022) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
   * [Step-by-step tutorial to reproduce the results of this study](https://github.com/sabifo4/mammals_dating).
   * [Interview I had at the YouTube channel "Evolution soup" with regards to this research](https://www.youtube.com/watch?v=shsOpkkcq_A&feature=youtu.be). By watching this video, you can learn more about the most precise estimated evolutionary timeline for mammals, each author's contribution, the outline and main outcome of this research, and a little bit more about my academic career.
@@ -37,23 +37,23 @@ __Álvarez-Carretero S__<sup>*</sup>, Tamuri AU<sup>*</sup>, et al. (2022) Natur
   
 <spacer></spacer>
 
-* [Bayesian phylogenomic dating](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)<br>
+* [__Bayesian phylogenomic dating__](https://link.springer.com/chapter/10.1007/978-3-030-60181-2_13)<br>
 __Álvarez-Carretero S__ and dos Reis M. (2021) *In*: Ho S (ed.) The Molecular Evolutionary Clock: Theory and Practice (2021).
 <spacer></spacer>
 
-* [Dire wolves were the last of an ancient New World canid lineage](https://www.nature.com/articles/s41586-020-03082-x)<br>
+* [__Dire wolves were the last of an ancient New World canid lineage__](https://www.nature.com/articles/s41586-020-03082-x)<br>
 Perri Angela R<sup>*</sup>, Mitchell Kieren J<sup>*</sup>, Mouton Alice<sup>*</sup>, __Álvarez-Carretero S__<sup>*</sup>, et al. (2021) Nature.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br>
 <spacer></spacer>
 
-* [Phylogenomic resolution of the Cetacean Tree of Life using target sequence capture](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)<br>
+* [__Phylogenomic resolution of the Cetacean Tree of Life using target sequence capture__](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz068/5601630)<br>
 McGowen MR, Tsagkogeorga G, __Álvarez-Carretero S__, dos Reis M, Struebig M, Deaville R, Jepson PD, Jarman S, Polanowski A, Morin PA, Rossiter SJ. (2020) Systematic Biology.
 <spacer></spacer>
 
-* [Identification of functional and druggable sites in _Aspergillus fumigatus_ essential phosphatases by virtual screening](https://www.mdpi.com/1422-0067/20/18/4636/htm)<br>
+* [__Identification of functional and druggable sites in _Aspergillus fumigatus_ essential phosphatases by virtual screening__](https://www.mdpi.com/1422-0067/20/18/4636/htm)<br>
 Thornton BP, Johns A, Al-Shidhani R, __Álvarez-Carretero S__, Storer ISR, Bromley MJ, Tabernero L. (2019) Molecules.
 <spacer></spacer>
 
-* [Bayesian estimation of species divergence times using correlated quantitative characters](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz015/5366706)<br>
+* [__Bayesian estimation of species divergence times using correlated quantitative characters__](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz015/5366706)<br>
 __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biology.<br> >> Resources available for this study:<br>
   * [Step-by-step tutorial followed to carry out each computational task of this study](https://github.com/sabifo4/morpho).
   * The R functions described in this study were implemented in [the `mcmc3r` R package](https://github.com/dosreislab/mcmc3r), which includes [a vignette to reproduce the results obtained with the input data](https://github.com/dosreislab/mcmc3r/tree/master/vignettes).
@@ -61,17 +61,17 @@ __Álvarez-Carretero S__, Goswami A, Yang Z, dos Reis M. (2019) Systematic Biolo
 
 <spacer></spacer>
 
-* [The bile salt glycocholate induces global changes in gene and protein expression and activates virulence in enterotoxigenic Escherichia coli](https://www.nature.com/articles/s41598-018-36414-z)<br>
+* [__The bile salt glycocholate induces global changes in gene and protein expression and activates virulence in enterotoxigenic Escherichia coli__](https://www.nature.com/articles/s41598-018-36414-z)<br>
 Joffre E, Nicklasson M, __Álvarez-Carretero S__, Xiao X, Sun L, Nookaew I, Zhu B, Sjöling Å. (2019) Scientific Reports.
 <spacer></spacer>
 
-* [VSpipe, an integrated resource for virtual screening and hit selection: applications to protein tyrosine phospahatase inhibition](http://www.mdpi.com/1420-3049/23/2/353)<br>
+* [__VSpipe, an integrated resource for virtual screening and hit selection: applications to protein tyrosine phospahatase inhibition__](http://www.mdpi.com/1420-3049/23/2/353)<br>
 __Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.<br> >> Resources available for this study:<br>
   * [`VSpipe` is an open-source code available for download on GitHub](https://github.com/sabifo4/VSpipe).
 
 <spacer></spacer>
 
-* [An evaluation of different partitioning strategies for Bayesian estimation of species divergence times](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)<br>
+* [__An evaluation of different partitioning strategies for Bayesian estimation of species divergence times__](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)<br>
 Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2018) Systematic Biology.
 
 <br>
@@ -179,13 +179,13 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Society Memberships__
 
-* <b>ESEB</b> <i>(May 2022 – Present)</i> – Regular member of the European Society of Evolutionary Biology.
-* <b>SSE</b> <i>(Feb 2019 – Present)</i> – Regular member of the Society for the Study of Evolution.
-* <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the Society of Systematic Biologists.
+* <b>ESEB</b> <i>(May 2022 – Present)</i> – Regular member of the [European Society of Evolutionary Biology](https://eseb.org/).
+* <b>SSE</b> <i>(Feb 2019 – Present)</i> – Regular member of the [Society for the Study of Evolution](http://www.evolutionsociety.org/).
+* <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the [Society of Systematic Biologists](https://www.systbio.org/).
 * <b>SRUK/CERU</b> <i>(Nov 2017 - Present)</i> – Regular member of the [Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk). Involvement in the Society:
   * Active roles:
-    * Since 2017: Member of the SRUK/CERU London working group.
-    * Since 2018: Member of the SRUK/CERU Press Department.
+    * Since 2017: [Member of the SRUK/CERU London working group](https://sruk.org.uk/constituencies/london/).
+    * Since 2018: [Member of the SRUK/CERU Press Department](https://sruk.org.uk/teams/press-department-backstage/).
     * Since 2019: [Co-editor-in-chief of the SRUK/CERU blog](https://sruk.org.uk/teams/blog-committee/) since 2019.
     * Since 2021: [Director of the Press department](https://sruk.org.uk/teams/press-department-backstage/).
     * Since 2021: [Website manager](https://sruk.org.uk/team/sandra-ac/).
