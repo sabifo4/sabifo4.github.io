@@ -91,7 +91,8 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Instructor
 
-* <b>Phylogenomics and Population Genomics Advanced Course</b> [University of Barcelona] <i>(Jul 2023. [Resources for the "Molecular dating" session I taught are available on my GitHub account](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
+* <b>[Phylogenomics and Population Genomics Advanced Course](https://www.ub.edu/certfem/ppgcourse/schedule)</b> [University of Barcelona] <i>(Jun 2023. [Resources for the "Molecular dating" session I taught are available on my GitHub account](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
+* <b>[ITAPHY - Phylogenetics workshop](https://sites.google.com/view/itaphylogeneticsworkshop)</b> [University of Trento] <i>(Jul 2023. [Resources for the genome-scale dating session I taught are now merged with those I later used in the PPG course in July 2023](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
 * <b>Computational Molecular Evolution course</b> <i>(May 2023).</i>
 * <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
@@ -196,7 +197,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Peer-review__
 
-Manuscripts reviewed for <i>Systematic Biology</i>, <i>Bioinformatics</i>, <i>Methods in Ecology and Evolution</i>, <i>Evolution</i>, <i>Cambridge Elements STM3</i>, <i>Nature Ecology and Evolution</i>, <i>Paleobiology</i>, <i>Proceedings of the Royal Society B</i>, <i>Nature Communications</i>, <i>Communications Biology</i>, <i>Bioinformatics Advances</i>, <i>Nature</i>, <i>Palaeontology</i>, <i>Genome Biology and Evolution</i>.
+Manuscripts reviewed for <i>Systematic Biology</i>, <i>Bioinformatics</i>, <i>Methods in Ecology and Evolution</i>, <i>Evolution</i>, <i>Cambridge Elements STM3</i>, <i>Nature Ecology and Evolution</i>, <i>Paleobiology</i>, <i>Proceedings of the Royal Society B</i>, <i>Nature Communications</i>, <i>Communications Biology</i>, <i>Bioinformatics Advances</i>, <i>Nature</i>, <i>Palaeontology</i>, <i>Genome Biology and Evolution</i>, <i>Molecular Biology and Evolution</i>.
 <space></space>
 Grants reviewed for the 2019, 2021, and 2022 [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html) (SSB).
 
@@ -211,4 +212,4 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2023/07/30.
+Last update: 2023/08/10.
