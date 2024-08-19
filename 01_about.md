@@ -8,10 +8,11 @@ permalink: /about/
 
 ### Current
 
-* __Senior Research Associate in Phylogenomics__ *([University of Bristol](https://www.bristol.ac.uk/people/person/Sandra-Alvarez-Carretero-76142ecd-fddd-45c3-a712-787d3a906d30/), UK)*<br>My main interest is focused on developing and applying reproducible methods and pipelines to study evolutionary processes, and hence my research is focused on Bayesian timetree inference with molecular and morphological datasets (with both extant and fossil species). As part of the [Biological Purpose project](https://www.biologicalpurpose.org/subaward-project/chance-versus-purpose-biosphere-evolution) I have joined while in Bristol, I will be contributing to processing and analysing genome-scale datasets for deep timetree inference with the aim to unravel the patterns of early evolution of life.<br><br> My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible.
+* __Research Fellow__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment)), UK)* | __Honorary Research Fellow__ *([University of Bristol](https://www.bristol.ac.uk/earthsciences/))*<br>My main interest is focused on developing and applying reproducible methods and pipelines to study evolutionary processes. Over the years, I have specialised on Bayesian timetree inference analyses with both molecular and morphological continuous data (with both extant and fossil species). As part of the project I have joined at UCL, I shall continue my research on timetree inference, although now focusing on MCMC algorithms and the assembly of empirical datasets to study human speciation and diversification (aDNA), the timescale of vertebrate terrestrialisation, and reconstructing the eukaryotic Tree of Life.<br><br> My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible.
 
 ### Past
 
+* __Senior Research Associate in Phylogenomics__ *([University of Bristol](https://www.bristol.ac.uk/earthsciences/), UK)*<br>As part of the [Biological Purpose project](https://www.biologicalpurpose.org/subaward-project/chance-versus-purpose-biosphere-evolution) I joined while in Bristol, I developed and applied new methods for deep timetree inference with the aim to unravel the patterns of early evolution. [We applied of such methods, cross-bracing, to infer the age of the Last Universal Common Ancestor](https://www.nature.com/articles/s41559-024-02461-1).
 * __Postdoctoral researcher__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment), UK)*<br>During these two-year position, I finished my [project on mammal evolution using the sequential-subtree approach](https://rdcu.be/cDHW7), worked on analyses for detecting positive selection, collaborated with various media and institutions for scientific outreach, and joined various projects focused on phylogenomic clock-dating analyses. During the academic year 2021-22, I was also a <b>teaching fellow</b> at UCL as part of a secondment, period during which I had the opportunity to further develop my teaching skills.
 * __PhD in Computational Biology__ *([Queen Mary University of London](http://www.sbcs.qmul.ac.uk/), UK)*<br>Once I completed my MSc studies, I wanted to explore other fields in computational biology such as Bayesian statistics and modelling as I was keen on integrating a more mathematical background with my computational skills at that moment. To achieve this, I started my PhD at the [dos Reis Lab](https://dosreislab.github.io/people/), at Queen Mary University of London, where I worked on the application of Bayesian MCMC statistical methods to study species divergences through time with both molecular and morphological quantitative data.
 * __MSc in Bioinformatics__ *([Högskolan I Skövde](http://www.his.se/en/#), Sweden)*<br>After finishing the theoretical courses, I carried out my Master's dissertation at [Karolinska Institutet](http://ki.se/en/research/centre-for-translational-microbiome-research-ctmr), where I developed a pipeline to characterise bacterial isolates based on whole-genome sequencing data and other software pipelines to analyse transcriptomic and proteomic data. My dissertation ["BACTpipe: Characterization of bacterial isolates based on whole-genome sequence data" can be accessed on the DIVA portal (free download)](http://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1197064&dswid=-2253). Since I finished my MSc research project, the computational research team at the [CTMR](https://ki.se/en/research/centre-for-translational-microbiome-research-ctmr) has been implementing new features in `BACTpipe`. The [current open source code is available as part of the `BACTpipe` GitHub repository](https://github.com/ctmrbio/BACTpipe).
@@ -20,6 +21,19 @@ permalink: /about/
 <br>
 
 ## __Publications__
+
+* [__The nature of the last universal common ancestor and its impact on the early Earth system__](https://doi.org/10.1038/s41559-024-02461-1)<br>
+Moody ERR., __Álvarez-Carretero S__, Mahendrarajah TA, _et al_ (2024). Nat Ecol Evol.<br> >> Resources available for this study:<br>
+  * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://github.com/sabifo4/LUCA-divtimes). We also have the [GitHub repository we compressed in June 2024 with all the files we have used and generated as part of this project, which is available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip). If you use these analyses, please cite the respository accordingly alongside the main article.
+  * [All data required to interpret, verify and extend the results regarding the reconciliation and phylogenomic analyses in this study can be found at our FigShare repository](https://doi.org/10.6084/m9.figshare.24428659).
+  * [Additional data are available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip).
+
+<spacer></spacer>
+
+* [__VSpipe-GUI, an Interactive Graphical User Interface for Virtual Screening and Hit Selection__](https://doi.org/10.3390/ijms25042002)<br>
+Hussain R, Hackett AS, __Álvarez-Carretero S__, Tabernero L. (2024). Int J Mol Sci.
+  
+<spacer></spacer>
 
 * [__Beginner’s guide on the use of PAML to detect positive selection__](https://doi.org/10.1093/molbev/msad041)<br>
 __Álvarez-Carretero S__<sup>*</sup>, Kapli P<sup>*</sup>, Yang Z (2023). Mol Biol Evol.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
@@ -78,6 +92,10 @@ Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2018) Systema
 
 ## __Awards and Scholarships__
 
+* [__ESEB Conference Travel Award__](https://eseb.org/prizes-funding/conference-travel-award/)<br>
+Travel Award that was used to cover the travel expenses to attend the Evolution meeting that took place in Montréal in July 2024.
+* [__SRUK/CERU Professional Development Award__](https://sruk.org.uk/initiatives/funding-grants-awards/travel-grants/)<br>
+Travel Award that was used to cover travel expenses to attend the XXIII International Congress of Genetics that took place in Melbourne in July 2023.
 * [__USyD-UCL Partnership Collaboration Awards (PCA)__](https://www.sydney.edu.au/research/research-funding/research-fellowships.html)<br>
 Application to fund the project “Reconstructing the evolutionary timescale of the Tree of Life” together with Prof Simon Ho. Awarded by the University of Sydney in 2022.
 * [__Ernst Mayr Award__](https://www.systbio.org/ernst-mayr-award.html), awarded by the Society of Systematic Biologists.
@@ -91,12 +109,12 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Instructor
 
-* <b>[Phylogenomics and Population Genomics Advanced Course](https://www.ub.edu/certfem/ppgcourse/schedule)</b> [University of Barcelona] <i>(Jun 2023. [Resources for the "Molecular dating" session I taught are available on my GitHub account](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
+* <b>[Phylogenomics and Population Genomics Advanced Course](https://www.ub.edu/certfem/ppgcourse/schedule)</b> [University of Barcelona] <i>(Jun 2023 & 2024. [Resources for the "Molecular dating" session I taught are available on my GitHub account](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
 * <b>[ITAPHY - Phylogenetics workshop](https://sites.google.com/view/itaphylogeneticsworkshop)</b> [University of Trento] <i>(Jul 2023. [Resources for the genome-scale dating session I taught are now merged with those I later used in the PPG course in July 2023](https://github.com/sabifo4/MolClockDat-tutorial)).</i>
-* <b>Computational Molecular Evolution course</b> <i>(May 2023).</i>
+* <b>Computational Molecular Evolution course</b> <i>(May 2023, 2024 & 2025 [[upcoming](https://meetings.embo.org/event/25-comp-mol-evolution)]).</i>
 * <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
-* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021 & Dec 2023 (upcoming). [Resources for the practical sessions I taught are available on my GitHub account](https://github.com/sabifo4/BayesianInference_practicals)).</i>
+* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023, and 2024 [[upcoming](https://www.physalia-courses.org/courses-workshops/phylogenomics/)]). [Resources for the practical sessions I taught are available on my GitHub account](https://github.com/sabifo4/BayesianInference_practicals).</i>
 * <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21 – 2021/22).</i>
 * <b>Research Computing Workshop – R, Bash, and Python</b> <i>(Feb & Jun 2020, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). Material and content available on GitHub for [the R and Bash workshop](https://github.com/sabifo4/RnBash) and for the [Phyton workshop](https://github.com/dalonsoa/SRUK_Python_course)).</i>
 * <b>A practical introduction to R and Python for researchers</b> <i>(Apr 2018 & Mar 2019, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). [Material and content available on GitHub](https://github.com/sabifo4/II_SRUK_Scientific_Computing)).</i>
@@ -113,6 +131,10 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Supervision and Research Guidance
 
+* <b>PhD project</b> <i>(2023-TBC) – Co-supervising Mingzhu Yang with Prof Phil Donoghue | Thesis: TBC.</i>
+* <b>PhD project</b> <i>(2023-TBC) – Co-supervising Sidney Davies with Prof Phil Donoghue | Thesis: TBC.</i>
+* <b>MSc project</b> <i>(2023) – Morena Nava’s research project with Prof Phil Donoghue and Prof
+Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropoda: Pycnogonida)".</i>
 * <b>MSci project</b> <i>(2020/21) – Co-supervising Léa Cavalli’s research project with Prof Ziheng Yang | Dissertation: "A simulation study to explore the time-dependent rates effect in viral evolution".</i>
 * **Additional supervision and/or research guidance**: Since 2017, I have been providing guidance to students and members of staff on a request basis about how to run and/or improve their computational analyses, specially troubleshooting and fixing code as well as providing them with help to run phylogenetic software (e.g., `raxml-ng`, `MCMCtree`, `CODEML`, `BPP`, etc.). Most of this research guidance has led me to develop new protocols that users can easily customise to fit their datasets while, at the same time, they can run various analysis in a reproducible manner.
 
@@ -135,6 +157,8 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Invited Talks and Science Communication <i>(outreach)</i>__
 
+* <b>Bayesian methods to infer evolutionary timelines when deep divergences are present and large genomic datasets used</b> <i>(July 2024) – Invited talk at the [Genome Science conference](https://bristol.genomescience.org.uk/committee/) that took place the University of Bristol.</i>
+* <b>Bayesian phylogenomic dating: a journey on reproducible timetree inference</b> <i>(June 2024) – Invited talk at the [“11<sup>th</sup> International Biennial Conference" organised by the Systematics Association](https://systass.org/events/biennial/) at the University of Reading.</i>
 * <b>XXIII International Congress of Genetics</b> <i>(Jul 2023) – Invited talk at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
 * <b>Native Schools workshop</b> <i>(Nov 2022) – Scientific activity sponsored by Native Scientist aimed at promoting science and language among school pupils.</i>
 * <b>Silwood Ecology and Evolution Seminar, Imperial College London</b> <i>(Jun 2022) – Invited talk (virtual).</i>
@@ -154,10 +178,11 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Events Organisation and Participation__
 
+* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://symposium.sruk.org.uk/event-2024/)).</i>
 * <b>XXIII International Congress of Genetics</b> <i>(Nov 2022 – Jul 2023) – Co-convenor at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
-* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://srukceru2023.com/)).</i>
+* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://sruk2023.wordpress.com/)).</i>
 * <b>CLOE Winter Quarterly Symposium</b> <i>(Oct – Dec 2021) – Member of the organising committee of the CLOE anniversary symposium. You can find [more information about this event and the invited speakers at the CLOE website](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-lifes-origins-and-evolution)</i>
-* <b>IX SRUK/CERU International Symposium</b> <i>(Nov 2021 – Jun 2022) – Member of the organising committee ([website development and management](https://sruk2022.com/)).</i>
+* <b>IX SRUK/CERU International Symposium</b> <i>(Nov 2021 – Jun 2022) – Member of the organising committee ([website development and management](https://sruk2022.wordpress.com/)).</i>
 * <b>SSB Awards Committee</b> <i>(Jun 2021) – Member of the judging panel for the talks presented at the SSB Excellence Symposium.</i>
 * <b>VIII SRUK/CERU International Symposium (virtual)</b> <i>(Nov 2020 – Jun 2021) – Member of the organising committee ([website development and management](https://sruk2021.wordpress.com/)).</i>
 * <b>VII SRUK/CERU International Symposium</b> <i>(Nov 2018 – Jun 2019) – Member of the organising committee ([website development and management](https://sruk2019.wordpress.com/)).</i>
@@ -168,6 +193,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Research Presentations__
 
+* <b>Using a Bayesian cross-bracing approach to infer the age of the Last Universal Common Ancestor</b> <i>(Jul 2024) – In-person talk at the Computational Biologi II session that was part of the Evolution meeting in Montréal.</i>
 * <b>Inferring species level timelines with phylogenomic data: A Bayesian sequential subtree approach</b> <i>(Jun and Aug 2022) – Virtual talk at the online session of the Evolution meeting and in-person talk at the ESEB conference.</i>
 * <b>Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach</b> <i>(Jun 2021) – Talk at the online Evolution meeting.</i>
 * <b>Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach</b> <i>(Nov 2019) – Poster presentation at the Young Systematists’ Forum meeting.</i>
@@ -180,18 +206,23 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ## __Society Memberships__
 
+* <b>The Systematics Association</b> <i>(Jul 2024 – Present)</i> – Regular member of the [Systematics Association](https://systass.org/).
+* <b>SMBE</b> <i>(Sep 2022 – Present)</i> – Regular member of the [Society for Molecular Biology and Evolution](https://www.smbe.org/smbe/).
 * <b>ESEB</b> <i>(May 2022 – Present)</i> – Regular member of the [European Society of Evolutionary Biology](https://eseb.org/).
 * <b>SSE</b> <i>(Feb 2019 – Present)</i> – Regular member of the [Society for the Study of Evolution](http://www.evolutionsociety.org/).
-* <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the [Society of Systematic Biologists](https://www.systbio.org/).
+* <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the [Society of Systematic Biologists](https://www.systbio.org/). Involvement in the Society:
+  * Since 2021: Reviewer for the [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html).
+  * In 2021 and 2024: Member of the judging panel for the [SSB Ernst Mayr Award](https://www.systbio.org/ernst-mayr-award.html).
 * <b>SRUK/CERU</b> <i>(Nov 2017 - Present)</i> – Regular member of the [Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk). Involvement in the Society:
   * Active roles:
     * Since 2017: [Member of the SRUK/CERU London working group](https://sruk.org.uk/constituencies/london/).
-    * Since 2018: [Member of the SRUK/CERU Press Department](https://sruk.org.uk/teams/press-department-backstage/).
     * Since 2019: [Co-editor-in-chief of the SRUK/CERU blog](https://sruk.org.uk/teams/blog-committee/) since 2019.
-    * Since 2021: [Director of the Press department](https://sruk.org.uk/teams/press-department-backstage/).
-    * Since 2021: [Website manager](https://sruk.org.uk/team/sandra-ac/).
+    * Since 2021: [Website manager](https://sruk.org.uk/team/sandra-ac/). Websites maintained: [main SRUK/CERU's website](https://sruk.org.uk/), [Symposium's website](https://symposium.sruk.org.uk/), [Members Zone](https://members.sruk.org.uk/).
+    * Since 2024: [Co-chair of the Evolution Committee, Founding Member](https://sruk.org.uk/teams/evolution-committee/).
+    * Since 2024: [Treasurer](https://sruk.org.uk/teams/board-directors/).
   * Past roles:
-    * 2019-2021: secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/).
+    * 2019-2021: Secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/).
+    * 2021-2023: Director of the former SRUK/CERU Press Department, now replaced by the SRUK/CERU Outreach and Public Engagement Department([https://sruk.org.uk/constituencies/london/](https://sruk.org.uk/teams/outreach-department/)). Member of the former Press Department since 2018.
 
 <br>
 
@@ -199,7 +230,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 Manuscripts reviewed for <i>Systematic Biology</i>, <i>Bioinformatics</i>, <i>Methods in Ecology and Evolution</i>, <i>Evolution</i>, <i>Cambridge Elements STM3</i>, <i>Nature Ecology and Evolution</i>, <i>Paleobiology</i>, <i>Proceedings of the Royal Society B</i>, <i>Nature Communications</i>, <i>Communications Biology</i>, <i>Bioinformatics Advances</i>, <i>Nature</i>, <i>Palaeontology</i>, <i>Genome Biology and Evolution</i>, <i>Molecular Biology and Evolution</i>.
 <space></space>
-Grants reviewed for the 2019, 2021, and 2022 [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html) (SSB).
+Grants reviewed for the 2019, 2021, 2022, and 2023 [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html) (SSB).
 
 <br>
 
@@ -212,4 +243,4 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2023/08/10.
+Last update: 2024/08/19.
