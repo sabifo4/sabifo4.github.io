@@ -158,8 +158,8 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Invited Talks and Science Communication <i>(outreach)</i>__
 
-* <b>Bayesian methods to infer evolutionary timelines when deep divergences are present and large genomic datasets used</b> <i>(July 2024) – Invited talk at the [Genome Science conference](https://bristol.genomescience.org.uk/committee/) that took place the University of Bristol.</i>
-* <b>Bayesian phylogenomic dating: a journey on reproducible timetree inference</b> <i>(June 2024) – Invited talk at the [“11<sup>th</sup> International Biennial Conference" organised by the Systematics Association](https://systass.org/events/biennial/) at the University of Reading.</i>
+* <b>Bayesian methods to infer evolutionary timelines when deep divergences are present and large genomic datasets used</b> <i>(Jul 2024) – Invited talk at the [Genome Science conference](https://bristol.genomescience.org.uk/committee/) that took place the University of Bristol.</i>
+* <b>Bayesian phylogenomic dating: a journey on reproducible timetree inference</b> <i>(Jun 2024) – Invited talk at the [“11<sup>th</sup> International Biennial Conference" organised by the Systematics Association](https://systass.org/events/biennial/) at the University of Reading.</i>
 * <b>XXIII International Congress of Genetics</b> <i>(Jul 2023) – Invited talk at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
 * <b>Native Schools workshop</b> <i>(Nov 2022) – Scientific activity sponsored by Native Scientist aimed at promoting science and language among school pupils.</i>
 * <b>Silwood Ecology and Evolution Seminar, Imperial College London</b> <i>(Jun 2022) – Invited talk (virtual).</i>
@@ -179,7 +179,7 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Events Organisation and Participation__
 
-* <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://symposium.sruk.org.uk/event-2024/)).</i>
+* <b>11<sup>th</sup> SRUK/CERU International Symposium</b> <i>(Nov 2023 – Jul 2024) – [Website manager, developing and maintaining the website](https://symposium.sruk.org.uk/event-2024/)).</i>
 * <b>XXIII International Congress of Genetics</b> <i>(Nov 2022 – Jul 2023) – Co-convenor at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
 * <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://sruk2023.wordpress.com/)).</i>
 * <b>CLOE Winter Quarterly Symposium</b> <i>(Oct – Dec 2021) – Member of the organising committee of the CLOE anniversary symposium. You can find [more information about this event and the invited speakers at the CLOE website](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-lifes-origins-and-evolution)</i>
@@ -194,7 +194,7 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Research Presentations__
 
-* <b>Using a Bayesian cross-bracing approach to infer the age of the Last Universal Common Ancestor</b> <i>(Jul 2024) – In-person talk at the Computational Biologi II session that was part of the Evolution meeting in Montréal.</i>
+* <b>Using a Bayesian cross-bracing approach to infer the age of the Last Universal Common Ancestor</b> <i>(Jul 2024) – In-person talk at the "Computational Biology II" session that was part of the Evolution meeting in Montréal.</i>
 * <b>Inferring species level timelines with phylogenomic data: A Bayesian sequential subtree approach</b> <i>(Jun and Aug 2022) – Virtual talk at the online session of the Evolution meeting and in-person talk at the ESEB conference.</i>
 * <b>Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach</b> <i>(Jun 2021) – Talk at the online Evolution meeting.</i>
 * <b>Estimating the divergence of dire wolves from their common ancestor with living canids using a Bayesian dating approach</b> <i>(Nov 2019) – Poster presentation at the Young Systematists’ Forum meeting.</i>
