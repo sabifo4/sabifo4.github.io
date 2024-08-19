@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Current
 
-* __Research Fellow__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment)), UK)* | __Honorary Research Fellow__ *([University of Bristol](https://www.bristol.ac.uk/earthsciences/))*<br>My main interest is focused on developing and applying reproducible methods and pipelines to study evolutionary processes. Over the years, I have specialised on Bayesian timetree inference analyses with both molecular and morphological continuous data (with both extant and fossil species). As part of the project I have joined at UCL, I shall continue my research on timetree inference, although now focusing on MCMC algorithms and the assembly of empirical datasets to study human speciation and diversification (aDNA), the timescale of vertebrate terrestrialisation, and reconstructing the eukaryotic Tree of Life.<br><br> My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible.
+* __Research Fellow__ *([University College London](https://www.ucl.ac.uk/biosciences/departments/genetics-evolution-and-environment)), UK)* & __Honorary Research Fellow__ *([University of Bristol](https://www.bristol.ac.uk/earthsciences/))*<br>My main interest is focused on developing and applying reproducible methods and pipelines to study evolutionary processes. Over the years, I have specialised on Bayesian timetree inference analyses with both molecular and morphological continuous data (with both extant and fossil species). As part of the project I have joined at UCL, I shall continue my research on timetree inference, although now focusing on MCMC algorithms and the assembly of empirical datasets to study human speciation and diversification (aDNA), the timescale of vertebrate terrestrialisation, and reconstructing the eukaryotic Tree of Life.<br><br> My ultimate goal is to ensure that all the computational tools that I develop as part of the projects I am involved in are well documented, user-friendly, and reproducible.
 
 ### Past
 
@@ -27,6 +27,7 @@ Moody ERR., __Álvarez-Carretero S__, Mahendrarajah TA, _et al_ (2024). Nat Ecol
   * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://github.com/sabifo4/LUCA-divtimes). We also have the [GitHub repository we compressed in June 2024 with all the files we have used and generated as part of this project, which is available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip). If you use these analyses, please cite the respository accordingly alongside the main article.
   * [All data required to interpret, verify and extend the results regarding the reconciliation and phylogenomic analyses in this study can be found at our FigShare repository](https://doi.org/10.6084/m9.figshare.24428659).
   * [Additional data are available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip).
+  * [Article Moody ERR, who led the project, and I wrote for The Conversation](https://theconversation.com/how-we-reconstructed-the-ancestor-of-all-life-on-earth-236452).
 
 <spacer></spacer>
 
