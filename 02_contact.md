@@ -6,18 +6,18 @@ permalink: /contact/
 
 ## __Contact__
 
-I am currently based at the Life Sciences Building (University of Bristol):
+I am currently based at the Darwin Building (University College London):
 
-University of Bristol<br>
-Bristol Life Sciences Building<br>
-24 Tyndall Avenue<br>
-BS8 1TQ, Bristol, United Kingdom<br>
-([View in Map](https://goo.gl/maps/jrqbGvZH1W3TsdK6A))
+University College London<br>
+Darwin Building, <br>
+Gower Street, Bloomsbury<br>
+WC1E 6BT, London, United Kingdom<br>
+([View in Map](https://maps.app.goo.gl/RB7PhCZH8WACDw3S8))
 <p align="left">
- <img width="200" height="60" src="/assets/figs/Logo_UoB.png">
+ <img width="180" height="80" src="/assets/figs/Logo_UCL.jpg">
 </p>
 
 <br>
-If you would like to have a chat, you can always reach me at [s.alvarez-carretero@bristol.ac.uk](mailto://s.alvarez-carretero@bristol.ac.uk). Happy to schedule both online or in-person meetings!
+If you would like to have a chat, you can always reach me at [s.alvarez-carretero@ucl.ac.uk](mailto://s.alvarez-carretero@ucl.ac.uk). Happy to schedule both online or in-person meetings!
 
 <br>
