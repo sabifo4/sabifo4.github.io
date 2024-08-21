@@ -23,21 +23,21 @@ permalink: /about/
 ## __Publications__
 
 * [__The nature of the last universal common ancestor and its impact on the early Earth system__](https://doi.org/10.1038/s41559-024-02461-1)<br>
-Moody ERR., __Álvarez-Carretero S__, Mahendrarajah TA, _et al_ (2024). Nat Ecol Evol.<br> >> Resources available for this study:<br>
+Moody ERR., __Álvarez-Carretero S__, Mahendrarajah TA, et al. (2024) Nat Ecol Evol.<br> >> Resources available for this study:<br>
   * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://github.com/sabifo4/LUCA-divtimes). We also have the [GitHub repository we compressed in June 2024 with all the files we have used and generated as part of this project, which is available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip). If you use these analyses, please cite the respository accordingly alongside the main article.
-  * [All data required to interpret, verify and extend the results regarding the reconciliation and phylogenomic analyses in this study can be found at our FigShare repository](https://doi.org/10.6084/m9.figshare.24428659).
+  * [All data required to interpret, verify, and extend the results regarding the reconciliation and phylogenomic analyses in this study can be found at our FigShare repository](https://doi.org/10.6084/m9.figshare.24428659).
   * [Additional data are available at the University of Bristol data repository](https://data.bris.ac.uk/data/dataset/405xnm7ei36d2cj65nrirg3ip).
   * [Article Moody ERR, who led the project, and I wrote for The Conversation](https://theconversation.com/how-we-reconstructed-the-ancestor-of-all-life-on-earth-236452).
 
 <spacer></spacer>
 
 * [__VSpipe-GUI, an Interactive Graphical User Interface for Virtual Screening and Hit Selection__](https://doi.org/10.3390/ijms25042002)<br>
-Hussain R, Hackett AS, __Álvarez-Carretero S__, Tabernero L. (2024). Int J Mol Sci.
+Hussain R, Hackett AS, __Álvarez-Carretero S__, Tabernero L. (2024) Int J Mol Sci.
   
 <spacer></spacer>
 
 * [__Beginner’s guide on the use of PAML to detect positive selection__](https://doi.org/10.1093/molbev/msad041)<br>
-__Álvarez-Carretero S__<sup>*</sup>, Kapli P<sup>*</sup>, Yang Z (2023). Mol Biol Evol.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
+__Álvarez-Carretero S__<sup>*</sup>, Kapli P<sup>*</sup>, Yang Z (2023) Mol Biol Evol.<br><font size="2"><sup>*</sup>These authors contributed equally.</font><br> >> Resources available for this study:<br>
   * [GitHub repository with data, code, and step-by-step guidelines for reproducing the results of the analyses described in the `CODEML` protocol](https://github.com/abacus-gene/paml-tutorial/tree/main/positive-selection).
   * [Supplementary material where we discuss (i) analyses and checks you should carry out before running tests of positive selection with CODEML, (ii) gene tree VS species tree, and (iii) the usage of rooted and unrooted trees](http://abacus.gene.ucl.ac.uk/ziheng/pdf/2023Alvarez-Carretero-codeml-SI.pdf).
   
@@ -81,20 +81,20 @@ Joffre E, Nicklasson M, __Álvarez-Carretero S__, Xiao X, Sun L, Nookaew I, Zhu 
 <spacer></spacer>
 
 * [__VSpipe, an integrated resource for virtual screening and hit selection: applications to protein tyrosine phospahatase inhibition__](http://www.mdpi.com/1420-3049/23/2/353)<br>
-__Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, and Tabernero L. (2018) Molecules.<br> >> Resources available for this study:<br>
+__Álvarez-Carretero S__, Pavlopoulou N, Adams J, Gilsenan J, Tabernero L. (2018) Molecules.<br> >> Resources available for this study:<br>
   * [`VSpipe` is an open-source code available for download on GitHub](https://github.com/sabifo4/VSpipe).
 
 <spacer></spacer>
 
 * [__An evaluation of different partitioning strategies for Bayesian estimation of species divergence times__](https://academic.oup.com/sysbio/article/doi/10.1093/sysbio/syx061/3921199/An-Evaluation-of-Different-Partitioning-Strategies)<br>
-Konstantinos A, __Álvarez-Carretero S__, dos Reis M, and Yang Z. (2018) Systematic Biology.
+Konstantinos A, __Álvarez-Carretero S__, dos Reis M, Yang Z. (2018) Systematic Biology.
 
 <br>
 
 ## __Awards and Scholarships__
 
 * [__ESEB Conference Travel Award__](https://eseb.org/prizes-funding/conference-travel-award/)<br>
-Travel Award that was used to cover the travel expenses to attend the Evolution meeting that took place in Montréal in July 2024.
+Travel Award that was used to cover travel expenses to attend the Evolution meeting that took place in Montréal in July 2024.
 * [__SRUK/CERU Professional Development Award__](https://sruk.org.uk/initiatives/funding-grants-awards/travel-grants/)<br>
 Travel Award that was used to cover travel expenses to attend the XXIII International Congress of Genetics that took place in Melbourne in July 2023.
 * [__USyD-UCL Partnership Collaboration Awards (PCA)__](https://www.sydney.edu.au/research/research-funding/research-fellowships.html)<br>
@@ -115,7 +115,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 * <b>Computational Molecular Evolution course</b> <i>(May 2023, 2024 & 2025 [[upcoming](https://meetings.embo.org/event/25-comp-mol-evolution)]).</i>
 * <b>Evolutionary Analysis Using PAML workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
-* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023, and 2024 [[upcoming](https://www.physalia-courses.org/courses-workshops/phylogenomics/)]. [Resources for the practical sessions I taught are available on my GitHub account](https://github.com/sabifo4/BayesianInference_practicals)).</i>
+* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023 & 2024 [[upcoming](https://www.physalia-courses.org/courses-workshops/phylogenomics/)]. [Resources for the practical sessions I taught are available on my GitHub account](https://github.com/sabifo4/BayesianInference_practicals)).</i>
 * <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21 – 2021/22).</i>
 * <b>Research Computing Workshop – R, Bash, and Python</b> <i>(Feb & Jun 2020, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). Material and content available on GitHub for [the R and Bash workshop](https://github.com/sabifo4/RnBash) and for the [Phyton workshop](https://github.com/dalonsoa/SRUK_Python_course)).</i>
 * <b>A practical introduction to R and Python for researchers</b> <i>(Apr 2018 & Mar 2019, workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). [Material and content available on GitHub](https://github.com/sabifo4/II_SRUK_Scientific_Computing)).</i>
@@ -179,7 +179,7 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Events Organisation and Participation__
 
-* <b>11<sup>th</sup> SRUK/CERU International Symposium</b> <i>(Nov 2023 – Jul 2024) – [Website manager, developing and maintaining the website](https://symposium.sruk.org.uk/event-2024/)).</i>
+* <b>11<sup>th</sup> SRUK/CERU International Symposium</b> <i>(Nov 2023 – Jul 2024) – [Website manager, developing and maintaining the website](https://symposium.sruk.org.uk/event-2024/).</i>
 * <b>XXIII International Congress of Genetics</b> <i>(Nov 2022 – Jul 2023) – Co-convenor at the “Molecular Evolution” symposium at the Evolutionary Genetics session.</i>
 * <b>X SRUK/CERU International Symposium</b> <i>(Nov 2022 – Jul 2023) – Member of the organising committee ([website development and management](https://sruk2023.wordpress.com/)).</i>
 * <b>CLOE Winter Quarterly Symposium</b> <i>(Oct – Dec 2021) – Member of the organising committee of the CLOE anniversary symposium. You can find [more information about this event and the invited speakers at the CLOE website](https://www.ucl.ac.uk/biosciences/gee/ucl-centre-lifes-origins-and-evolution)</i>
@@ -214,6 +214,8 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 * <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the [Society of Systematic Biologists](https://www.systbio.org/). Involvement in the Society:
   * Since 2021: Reviewer for the [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html).
   * In 2021 and 2024: Member of the judging panel for the [SSB Ernst Mayr Award](https://www.systbio.org/ernst-mayr-award.html).
+  * Since 2023: Mentor at the [SSB Mentoring Program](https://www.systbio.org/mentorship-program.html).
+
 * <b>SRUK/CERU</b> <i>(Nov 2017 - Present)</i> – Regular member of the [Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk). Involvement in the Society:
   * Active roles:
     * Since 2017: [Member of the SRUK/CERU London working group](https://sruk.org.uk/constituencies/london/).
@@ -223,7 +225,7 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
     * Since 2024: [Treasurer](https://sruk.org.uk/teams/board-directors/).
   * Past roles:
     * 2019-2021: Secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/).
-    * 2021-2023: Director of the former SRUK/CERU Press Department, now replaced by the SRUK/CERU Outreach and Public Engagement Department([https://sruk.org.uk/constituencies/london/](https://sruk.org.uk/teams/outreach-department/)). Member of the former Press Department since 2018.
+    * 2021-2023: Director of the former SRUK/CERU Press Department, now replaced by the [SRUK/CERU Outreach and Public Engagement Department](https://sruk.org.uk/teams/outreach-department/). Member of the former Press Department since 2018.
 
 <br>
 
@@ -231,7 +233,6 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 Manuscripts reviewed for <i>Systematic Biology</i>, <i>Bioinformatics</i>, <i>Methods in Ecology and Evolution</i>, <i>Evolution</i>, <i>Cambridge Elements STM3</i>, <i>Nature Ecology and Evolution</i>, <i>Paleobiology</i>, <i>Proceedings of the Royal Society B</i>, <i>Nature Communications</i>, <i>Communications Biology</i>, <i>Bioinformatics Advances</i>, <i>Nature</i>, <i>Palaeontology</i>, <i>Genome Biology and Evolution</i>, <i>Molecular Biology and Evolution</i>.
 <space></space>
-Grants reviewed for the 2019, 2021, 2022, and 2023 [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html) (SSB).
 
 <br>
 
@@ -244,4 +245,4 @@ Native speaker of Spanish, fluent in English and Catalan, basic level in Greek a
 ---
 <spacer></spacer>
 
-Last update: 2024/08/19.
+Last update: 2024/08/21.
