@@ -23,6 +23,13 @@ permalink: /about/
 
 ## __Publications__
 
+* [__The emergence of metabolisms through Earth history and implications for biospheric evolution__](http://doi.org/10.1098/rstb.2024.0097) <br>
+Moody ERR, Williams TA, __Álvarez-Carretero S__, Szöllősi GJ, Pisani D, Lenton TM, Donoghue PCJ. (2025) Phil Trans R Soc.<br> >> Resources available for this study:<br>
+  * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://github.com/sabifo4/anoxphoto-divtimes).
+  * [Supplementary Material](https://doi.org/10.6084/m9.figshare.c.8052281).
+ 
+<spacer></spacer>
+
 * [__A geological timescale for bacterial evolution and oxygen adaptation__](https://doi.org/10.1073/pnas.2406344122) <br>
 Davín AA, Woodcroft BJ, Soo RM, Morel B, Murali R, Schrempf D, Clark JW, __Álvarez-Carretero S__, Boussau B, Moody ERR, Szánthó LL, Richy E, Pisani D, Hemp J, Fischer WW, Donoghue PCJ, Spang A, Hugenholtz P, Williams TA, Szöllősi GJ. (2025) Science.<br> >> Resources available for this study:<br>
   * [Tutorial benchmarking `MCMCtree` vs `McmcDate` when using the two different approximate likelihood calculation approaches impelemented in these two software](https://github.com/dschrempf/mcmc-date/tree/master/bench/comparison_with_mcmctree).
@@ -250,13 +257,13 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Society Memberships__
 
-* <b>The Systematics Association</b> <i>(Jul 2024 – Present)</i> – Regular member of the [Systematics Association](https://systass.org/).
+* <b>SystAssn</b> <i>(Jul 2024 – Present)</i> – Regular member of the [Systematics Association](https://systass.org/).
 * <b>SMBE</b> <i>(Sep 2022 – Present)</i> – Regular member of the [Society for Molecular Biology and Evolution](https://www.smbe.org/smbe/).
 * <b>ESEB</b> <i>(May 2022 – Present)</i> – Regular member of the [European Society of Evolutionary Biology](https://eseb.org/).
 * <b>SSE</b> <i>(Feb 2019 – Present)</i> – Regular member of the [Society for the Study of Evolution](http://www.evolutionsociety.org/).
 * <b>SSB</b> <i>(Jan 2018 – Present)</i> – Regular member of the [Society of Systematic Biologists](https://www.systbio.org/). Involvement in the Society:
-  * 2021-2024: Reviewer for the [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html).
-  * In 2021 and 2024: Member of the judging panel for the [SSB Ernst Mayr Award](https://www.systbio.org/ernst-mayr-award.html).
+  * Since 2021: Reviewer for the [Graduate Student Research Awards](https://www.systbio.org/graduate-student-research-awards.html).
+  * 2021 & 2024: Member of the judging panel for the [SSB Ernst Mayr Award](https://www.systbio.org/ernst-mayr-award.html).
   * Since 2023: Mentor at the [SSB Mentoring Program](https://www.systbio.org/mentorship-program.html).
 * <b>SRUK/CERU</b> <i>(Nov 2017 - Present)</i> – Regular member of the [Society of Spanish Researchers in the United Kingdom (SRUK/CERU)](https://sruk.org.uk). Involvement in the Society:
   * Active roles:
@@ -265,8 +272,8 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
   * Past roles ([see my SRUK/CERU Profile](https://sruk.org.uk/team/sandra-ac/)):
     * Jul 2024 - Jul 2025: [Treasurer (Board of Trustees)](https://find-and-update.company-information.service.gov.uk/officers/YjMWtjepxtiW8j8puYJN2YSMXZo/appointments).
     * Sep 2020 - Jul 2025: Website manager. Websites maintained: [main SRUK/CERU's website](https://sruk.org.uk/), [Symposium's website](https://symposium.sruk.org.uk/), [Members Zone](https://members.sruk.org.uk/).
-    * Oct 2017- Apr 2025: [Member of the SRUK/CERU London working group](https://sruk.org.uk/constituencies/london/).
-    * Oct 2019- Jul 2025: [Co-editor-in-chief of the SRUK/CERU blog](https://sruk.org.uk/blog/).
+    * Oct 2017 - Apr 2025: [Member of the SRUK/CERU London working group](https://sruk.org.uk/constituencies/london/).
+    * Oct 2019 - Jul 2025: [Co-editor-in-chief of the SRUK/CERU blog](https://sruk.org.uk/blog/).
     * Jul 2019 - Jul 2021: Secretary of the [SRUK/CERU London constituency](https://sruk.org.uk/constituencies/london/).
     * Jul 2021 - Jul 2023: Director of the former SRUK/CERU Press Department, now replaced by the [SRUK/CERU Outreach and Public Engagement Department](https://sruk.org.uk/teams/outreach-department/). Member of the former Press Department since 2018.
 
@@ -292,5 +299,6 @@ Since 2022, I administer the [PAML discussion group](https://groups.google.com/g
 <spacer></spacer>
 
 Last update: 2025/07/23.
+
 
 
