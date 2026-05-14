@@ -23,6 +23,13 @@ permalink: /about/
 
 ## __Publications__
 
+* [__Independent origins of spicules reconcile paleontological and molecular evidence of sponge evolutionary history__](https://doi.org/10.1126/sciadv.adx1754) <br>
+Rossi ME, Keating JN, Kenny NJ, Giacomelli M, __Álvarez-Carretero S__, Schuster A, Cárdenas P, Taboada S, Koutsouveli V, Donoghue PCJ, Riesgo A, Pisani D. (2026) Sci Adv.<br> >> Resources available for this study:<br>
+  * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://doi.org/10.5281/zenodo.11488993).
+  * [Supplementary Material](https://doi.org/10.6084/m9.figshare.28574570).
+
+<spacer></spacer>
+
 * [__The emergence of metabolisms through Earth history and implications for biospheric evolution__](http://doi.org/10.1098/rstb.2024.0097) <br>
 Moody ERR, Williams TA, __Álvarez-Carretero S__, Szöllősi GJ, Pisani D, Lenton TM, Donoghue PCJ. (2025) Phil Trans R Soc.<br> >> Resources available for this study:<br>
   * [GitHub repository with data, code, and step-by-step guidelines for reproducing the timetree inference results described in our study](https://github.com/sabifo4/anoxphoto-divtimes).
@@ -153,6 +160,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Instructor
 
+* <b>[Workshop on Computational Genomics](https://bsee.bnu.edu.cn/docs/2025-07/b1db7342d2184cc889252796045ae275.pdf)</b> [Beijing Normal University] <i>(Nov 2025). [Resources that I created for the Bayesian timetree inference session I taught are available on the `PAML` GitHub repository](https://github.com/abacus-gene/paml-tutorial/tree/main/mcmctree-approxlnL-aa).</i>
 * <b>[Bayesian Phylogenetics Workshop](https://systass.org/workshop-bayesian-phylogenetics/)</b> [Sponsors: Society of Spanish Researchers in the United Kingdom (SRUK/CERU) the Systematics Association] <i>(Apr 2025). [Resources that I created for the Bayesian timetree inference session I taught are available on the `PAML` GitHub repository](https://github.com/abacus-gene/paml-tutorial/tree/main/mcmctree-approxlnL-aa).</i>
 * <b>[Workshop on Computational Genomics](https://sishuowang2022.wordpress.com/2025/02/23/ad-computational-genomics-workshop-in-science-park-hong-kong-sar/)</b> [Sun Yat-sen University Institute of Advanced Studies Hong Kong] <i>(Mar 2025). [Resources that I created for the Bayesian timetree inference session I taught are available on the `PAML` GitHub repository](https://github.com/abacus-gene/paml-tutorial/tree/main/mcmctree-approxlnL-aa).</i>
 * <b>[Phylogenomics and Population Genomics Advanced Course](https://www.ub.edu/certfem/ppgcourse/schedule)</b> [University of Barcelona] <i>(Jun 2023 & 2024). [Resources that I created for the Bayesian timetree inference session I taught are available on the PPG course GitHub repository](https://github.com/ppgcourseUB/ppgcourse2024_week1/tree/main/BayesianTimetreInference-SandraAlvarezCarretero).</i>
@@ -160,8 +168,8 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 * <b>Computational Molecular Evolution course</b> <i>(May 2023, 2024 & 2025). [Information about the latest workshop in 2025](https://meetings.embo.org/event/25-comp-mol-evolution). [Resources that I created for the Bayesian timetree inference session I taught are available on the `PAML` GitHub repository](https://github.com/abacus-gene/paml-tutorial/tree/main/mcmctree-approxlnL-aa).</i></i>
 * <b>Evolutionary Analysis Using `PAML` workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
-* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023 & 2024). [Information about the next course in 2025](https://www.physalia-courses.org/courses-workshops/phylogenomics/). [Resources that I created for the practical sessions I taught are available on my GitHub repository `PhyloPhysalia24`](https://github.com/sabifo4/PhyloPhysalia24).</i>
-* <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21, 2021/22 & 2024/25).</i>
+* <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023, 2024 & 2025). [Information about the course in 2025](https://www.physalia-courses.org/courses-workshops/phylogenomics/). [Resources that I created for the practical sessions I taught are available on my GitHub repository `PhyloPhysalia25`]([https://github.com/sabifo4/PhyloPhysalia24](https://github.com/sabifo4/PhyloPhysalia25)).</i>
+* <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21, 2021/22, 2024/25 & 2025/26).</i>
 * <b>Research Computing Workshop – R, Bash, and Python</b> <i>(Feb & Jun 2020). Workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). Material and content available on GitHub for [the R and Bash workshop](https://github.com/sabifo4/RnBash) and for the [Phyton workshop](https://github.com/dalonsoa/SRUK_Python_course).</i>
 * <b>A practical introduction to R and Python for researchers</b> <i>(Apr 2018 & Mar 2019). Workshop sponsored by [SRUK/CERU](https://sruk.org.uk), co-organised with [Dr Diego Alonso](https://www.imperial.ac.uk/people/d.alonso-alvarez). [Material and content available on GitHub](https://github.com/sabifo4/II_SRUK_Scientific_Computing).</i>
 * <b>Morphometrics and the Procrustes alignment</b> <i>(2017-2021). Workshop I organised to engage the NERC-DTP students with the research carried out at the [dos Reis lab](https://dosreislab.github.io/people/) during their induction at QMUL. [The material is available on my website as a post](https://sabifo4.github.io/blog/Morphometrics_and_Procrustes_alignment).</i>
@@ -183,6 +191,11 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 * <b>MSci project</b> <i>(2020/21) – Co-supervising Léa Cavalli’s research project with Prof Ziheng Yang | Dissertation: "A simulation study to explore the time-dependent rates effect in viral evolution".</i>
 * **Additional supervision and/or research guidance**: Since 2017, I have been providing guidance to students and members of staff on a request basis about how to run and/or improve their computational analyses, specially troubleshooting and fixing code as well as providing them with help to run phylogenetic software (e.g., `raxml-ng`, `MCMCtree`, `CODEML`, `BPP`, etc.). Most of this research guidance has led me to develop new protocols that users can easily customise to fit their datasets while, at the same time, they can run various analysis in a reproducible manner.
 
+### Thesis Evaluation (Examiner)
+
+* Thesis evaluated: <b>Exploring Evolutionary Rates and Patterns of Diversification Across the Tree of Life</b>. Student: Yasmin Asar. University: The University of Sidney. Year: 2024. Resolution: PhD Degree Awarded.
+* Thesis evaluated: <b>Pandemic preparedness in a vector. <i>How new data representations from phylogenetics, protein structure, and animal tracking can support outbreak intelligence</i></b>. Student: Neil Alexandre Scheidwasser. University: University of Copenhaguen. Year: 2026. Resolution: PhD Degree Awarded.
+
 ### Teaching Assistant
 
 * <b>Computational Molecular Evolution course</b> <i>(May 2018, May 2019 & Jul 2022).</i>
@@ -202,6 +215,8 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ## __Invited Talks and Science Communication <i>(outreach)</i>__
 
+* <b>Dating deep divergences: challenges and emerging strategies in Bayesian phylogenomic dating</b> <i>(April 2026) – Invited talk at the Computational Approaches to Early Evolution at OIST, Okinawa.</i>
+* <b>Back to present: Understanding evolution</b> <i>(February 2026) – Scientific activity at the UCL bicentenary celebrations showcasing how morphology and DNA are used to study evolution. Topics discussed as part of the activity ranged from dinosaurs, landmarking, and Procrustes to Bayesian methods & genomes. Researchers and the wide audience attended the event, including families with children.</i>
 * <b>The importance of data accessibility and reproducibility in computational research</b> <i>(Jun 2025) – Invited talk at the UGI meetings at University College London.</i>
 * <b>Application of Bayesian model selection to distinguish between species diversification timing hypotheses</b> <i>(May 2025) – Invited talk at the "Ancient Rocks and Clocks meeting" that took place at McGill University in Montréal.</i>
 * <b>Fossil calibrations in Bayesian relaxed-clock dating</b> <i>(Mar 2025) – Invited talk at the "Symposium on Computational Phylogenomics" that took place at Southern University of Science and Technology (SUSTech) in Shenzhen.</i>
@@ -210,7 +225,7 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 * <b>XXIII International Congress of Genetics</b> <i>(Jul 2023) – Invited talk at the “Molecular Evolution” Symposium at the Evolutionary Genetics session.</i>
 * <b>Native Schools workshop</b> <i>(Nov 2022) – Scientific activity sponsored by Native Scientist aimed at promoting science and language among school pupils.</i>
 * <b>Silwood Ecology and Evolution Seminar, Imperial College London</b> <i>(Jun 2022) – Invited talk (virtual).</i>
-* <b>“Data, tools and applications: Creating a pipeline from Omics to AI” meeting, Alan Turing Institute</b> <i>(May 2022) – Invited talk.</i>
+* <b><i>Data, tools and applications: Creating a pipeline from Omics to AI</i> meeting, Alan Turing Institute</b> <i>(May 2022) – Invited talk.</i>
 * <b>Brunel Bioinformatics Workshop 2022</b> <i>(May 2022) – Invited talk at the [“Statistical Modelling” session of the workshop](https://bbw2022.co.uk/speakers).</i>
 * <b>Interview at “En Fase Experimental” radio podcast</b> <i>(May 2022) – Interview about the day-to-day of a computational biologist and my research in evolutionary biology (virtual). [You can listen to this podcast episode on the SRUK/CERU website](https://sruk.org.uk/es/efex64/)</i>
 * <b>Seminar on Phylogenomics analyses with `MCMCtree`, University of Oklahoma</b> <i>(Apr 2022) – Invited talk (virtual).</i>
@@ -298,7 +313,7 @@ Since 2022, I administer the [PAML discussion group](https://groups.google.com/g
 ---
 <spacer></spacer>
 
-Last update: 2025/07/23.
+Last update: 2026/05/14.
 
 
 
