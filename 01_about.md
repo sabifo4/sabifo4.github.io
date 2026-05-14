@@ -166,7 +166,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 * <b>[Phylogenomics and Population Genomics Advanced Course](https://www.ub.edu/certfem/ppgcourse/schedule)</b> [University of Barcelona] <i>(Jun 2023 & 2024). [Resources that I created for the Bayesian timetree inference session I taught are available on the PPG course GitHub repository](https://github.com/ppgcourseUB/ppgcourse2024_week1/tree/main/BayesianTimetreInference-SandraAlvarezCarretero).</i>
 * <b>[ITAPHY - Phylogenetics workshop](https://sites.google.com/view/itaphylogeneticsworkshop)</b> [University of Trento] <i>(Jul 2023). [Resources that I created for the genome-scale dating session have been moved to my GitHub repository `PhyloPhysalia24`](https://github.com/sabifo4/PhyloPhysalia24).</i>
 * <b>Computational Molecular Evolution course</b> <i>(May 2023, 2024 & 2025). [Information about the latest workshop in 2025](https://meetings.embo.org/event/25-comp-mol-evolution). [Resources that I created for the Bayesian timetree inference session I taught are available on the `PAML` GitHub repository](https://github.com/abacus-gene/paml-tutorial/tree/main/mcmctree-approxlnL-aa).</i></i>
-* <b>Evolutionary Analysis Using `PAML` workshop</b> [USyD-UCL PCA] <i>(Jan 2023).</i>
+* <b>Evolutionary Analysis Using `PAML` workshop</b> [USyD-UCL PCA] <i>(Jan 2023).
 * <b>Bayesian statistics</b> [MSc CMEE, Imperial College] <i>(2021/22 & 2022/23).</i>
 * <b>Phylogenomics course</b> [Physalia course] <i>(Dec 2021, 2023, 2024 & 2025). [Information about the course in 2025](https://www.physalia-courses.org/courses-workshops/phylogenomics/). [Resources that I created for the practical sessions I taught are available on my GitHub repository `PhyloPhysalia25`]([https://github.com/sabifo4/PhyloPhysalia24](https://github.com/sabifo4/PhyloPhysalia25)).</i>
 * <b>Molecular Evolution</b> [BIOL0033, UCL] <i>(2020/21, 2021/22, 2024/25 & 2025/26).</i>
@@ -185,6 +185,7 @@ Application to fund the project “Reconstructing the evolutionary timescale of 
 
 ### Supervision and Research Guidance
 
+* <b>MRes project</b> <i>(2025-2026) – Co-supervising Lavender Lu with Prof Nick Lande and Prof Joel Dacks | Dissertation: TBC.</i>
 * <b>PhD project</b> <i>(2023-TBC) – Co-supervising Sidney Davies with Prof Phil Donoghue | Thesis: TBC.</i>
 * <b>MSc project</b> <i>(2023) – Morena Nava’s research project with Prof Phil Donoghue and Prof
 Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropoda: Pycnogonida)".</i>
@@ -193,8 +194,8 @@ Davide Pisani | Dissertation: "A timescale to Sea Spider’s Evolution (Arthropo
 
 ### Thesis Evaluation (Examiner)
 
-* Thesis evaluated: <b>Exploring Evolutionary Rates and Patterns of Diversification Across the Tree of Life</b>. Student: Yasmin Asar. University: The University of Sidney. Year: 2024. Resolution: PhD Degree Awarded.
 * Thesis evaluated: <b>Pandemic preparedness in a vector. <i>How new data representations from phylogenetics, protein structure, and animal tracking can support outbreak intelligence</i></b>. Student: Neil Alexandre Scheidwasser. University: University of Copenhaguen. Year: 2026. Resolution: PhD Degree Awarded.
+* Thesis evaluated: <b>Exploring Evolutionary Rates and Patterns of Diversification Across the Tree of Life</b>. Student: Yasmin Asar. University: The University of Sidney. Year: 2024. Resolution: PhD Degree Awarded.
 
 ### Teaching Assistant
 
